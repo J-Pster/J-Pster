@@ -7,14 +7,12 @@ Since I was a kid I am fascinated by the idea of being able to create something 
 Create, Evolve and Learn are always my goals.
 
 I wish to enter the computer science course at UNICAMP.
-You can find me on [![Discord][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on [Discord][1], or on [LinkedIn][2].
 
 <!-- Resources -->
 <!-- links to your social media accounts -->
 [1]: https://discord.gg/sgWBggXSWJ
 [2]: https://www.linkedin.com/in/joaopedrovianafreitas/
-[1.2]: https://github.com/J-Pster/J-Pster/blob/main/Discord-Logo-Color.png
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 ## &#x1f4c8; Stats
 <a href="https://github.com/J-Pster/J-Pster">
