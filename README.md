@@ -12,7 +12,7 @@ You can find me on [Discord][1], or on [LinkedIn][2].
 
 <!-- Resources -->
 <!-- links to your social media accounts -->
-[1]: https://discord.gg/sgWBggXSWJ
+[1]: https://discord.gg/gqnbuSnJZ6
 [2]: https://www.linkedin.com/in/joaopedrovianafreitas/
 
 ## 🔧 Technologies & Tools
