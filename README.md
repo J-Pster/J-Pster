@@ -7,6 +7,7 @@ Since I was a kid I am fascinated by the idea of being able to create something 
 Create, Evolve and Learn are always my goals.
 
 I wish to enter the computer science course at UNICAMP.
+
 You can find me on [Discord][1], or on [LinkedIn][2].
 
 <!-- Resources -->
