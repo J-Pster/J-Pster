@@ -1,14 +1,3 @@
-# Olá Pessoal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Olá, eu sou o João Pster, sou um Desenvolvedor Web Full-Stack, atuo na área da tecnologia desde muito pequeno (16 Anos), sempre fui interessado em aprender, criar e melhorar coisas que gerem valor na vida das pessoas.
-
-Tenho uma grande desenvoltura para administrar (liderar) grupos de qualquer tipo, sou um bom orador e professor, tenho facilidade para desenvolver projetos de organização e geralmente sou muito rápido para executar meus trabalhos. Sou um rápido e bom escritor, amante da língua culta, conhecedor vasto da gramática e escrita formal com extenso vocabulário, meus conhecimentos são muito variados e tenho várias habilidades, posso dizer que mesmo tendo 18 anos eu sou um "ancião" da internet (principalmente pelo fato de ter passado minha infância inteira nela) e já tive contato com quase todo tipo de experiência, conhecimento e área.
-
-Tenho grande facilidade de me concentrar e finalizar uma tarefa rapidamente, habilidade de perceber outros pontos de vistas e discrepâncias entre ideias, sempre fui muito iniciativo e autônomo, tenho interesse por áreas e tópicos diversos e facilidade para interagir com pessoas mais velhas.
-
-Atualmente trabalho nacional e internacionalmente com o Desenvolvimento Web, e estou estudando na @Trybe para aperfeiçoar meus conhecimentos e me tornar um profissional mais qualificado, utilizo principalmente as plataformas Fiverr, LinkedIn e GetNinjas para conseguir clientes (além de recomendações), redigi e utilizo meus próprios contratos PJ x PJ x PF e administro um MEI. :wink:
-
-Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Hello, I'm João Pster, I'm a Full-Stack Web Developer, I've been working in the technology area since I was very young (16 years old), I've always been interested in learning, creating and improving things that generate value in people's lives. 
@@ -20,6 +9,17 @@ I am a fast and good writer, a lover of the cultured language, a vast connoisseu
 Currently I work nationally and internationally with Web Development, and I am studying at @Trybe to improve my knowledge and become a more qualified professional, I use mainly the Fiverr, LinkedIn and GetNinjas platforms to get clients (besides recommendations), I write and use my own PJ x PJ x PF contracts and manage a MEI.
 
 You can find me on [LinkedIn][1], or on [WhatsApp][2].
+
+# Olá Pessoal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Olá, eu sou o João Pster, sou um Desenvolvedor Web Full-Stack, atuo na área da tecnologia desde muito pequeno (16 Anos), sempre fui interessado em aprender, criar e melhorar coisas que gerem valor na vida das pessoas.
+
+Tenho uma grande desenvoltura para administrar (liderar) grupos de qualquer tipo, sou um bom orador e professor, tenho facilidade para desenvolver projetos de organização e geralmente sou muito rápido para executar meus trabalhos. Sou um rápido e bom escritor, amante da língua culta, conhecedor vasto da gramática e escrita formal com extenso vocabulário, meus conhecimentos são muito variados e tenho várias habilidades, posso dizer que mesmo tendo 18 anos eu sou um "ancião" da internet (principalmente pelo fato de ter passado minha infância inteira nela) e já tive contato com quase todo tipo de experiência, conhecimento e área.
+
+Tenho grande facilidade de me concentrar e finalizar uma tarefa rapidamente, habilidade de perceber outros pontos de vistas e discrepâncias entre ideias, sempre fui muito iniciativo e autônomo, tenho interesse por áreas e tópicos diversos e facilidade para interagir com pessoas mais velhas.
+
+Atualmente trabalho nacional e internacionalmente com o Desenvolvimento Web, e estou estudando na @Trybe para aperfeiçoar meus conhecimentos e me tornar um profissional mais qualificado, utilizo principalmente as plataformas Fiverr, LinkedIn e GetNinjas para conseguir clientes (além de recomendações), redigi e utilizo meus próprios contratos PJ x PJ x PF e administro um MEI. :wink:
+
+Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
 
 <!-- Resources -->
 <!-- links to your social media accounts -->
