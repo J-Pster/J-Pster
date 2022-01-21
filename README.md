@@ -9,7 +9,7 @@ Atualmente trabalho nacional e internacionalmente com o Desenvolvimento Web, e e
 
 Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
 
-# Hello, folks!
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Hello, I'm João Pster, I'm a Full-Stack Web Developer, I've been working in the technology area since I was very young (16 years old), I've always been interested in learning, creating and improving things that generate value in people's lives. 
 
