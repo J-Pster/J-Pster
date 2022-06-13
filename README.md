@@ -1,4 +1,5 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="
+  10px">
 
 Hello, my name is John Pster and I am a Web Developer.
 My job is to create websites and solutions, for every kind of business.
