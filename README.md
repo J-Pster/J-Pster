@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks!
 
 Hello, my name is John Pster and I am a Web Developer.
 My job is to create websites and solutions, for every kind of business.
@@ -11,7 +11,7 @@ Today I see myself as a leader, developer, student and teacher, organized and fo
 
 You can find me on [LinkedIn][1], or on [WhatsApp][2].
 
-# Olá Pessoal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Olá Pessoal!
 Olá, meu nome é João Pster e eu sou Desenvolvedor de Páginas.
 Meu trabalho é criar sites e soluções, para toda categoria de negócio.
 
