@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+# Hello, folks! ![Shake Hand]([http://url/to/img.png](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif))
 
 Hello, my name is John Pster and I am a Web Developer.
 My job is to create websites and solutions, for every kind of business.
