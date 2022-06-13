@@ -1,4 +1,4 @@
-# Visit my Knowledge Repo! ![My Knowledge Repo](https://github.com/J-Pster/meu-super-repo)
+# Visit my Knowledge Repo! [My Knowledge Repo](https://github.com/J-Pster/meu-super-repo)
 
 # Hello, folks!
 
