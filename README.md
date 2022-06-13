@@ -1,23 +1,25 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello, I'm João Pster, I'm a Full-Stack Web Developer, I've been working in the technology area since I was very young (16 years old), I've always been interested in learning, creating and improving things that generate value in people's lives. 
+Hello, my name is John Pster and I am a Web Developer.
+My job is to create websites and solutions, for every kind of business.
 
-I have a great ability to manage (lead) groups of any kind, I am a good speaker and teacher, I have an ease to develop organizational projects and I am generally very fast to execute my work. 
+My biggest goal is to be able to add the most value wherever I am, so since I was a kid I focus on my studies (Hard and Soft Skills), on evolving and improving myself and those things and people around me.
 
-I am a fast and good writer, a lover of the cultured language, a vast connoisseur of grammar and formal writing with an extensive vocabulary, my knowledge is very varied and I have many skills, I can say that even though I am 18 years old I am an "elder" of the Internet (mainly due to the fact that I spent my entire childhood on it) and have had contact with almost every type of experience, knowledge and area. I have great ability to concentrate and finish a task quickly, ability to perceive other points of view and discrepancies between ideas, I have always been very initiative and autonomous, I am interested in diverse areas and topics and find it easy to interact with older people. 
+I started as a self-taught person and still am to this day, learning communication, development, design, leadership, in practice, and many other things, in 2022 I joined @Trybe and here I am learning everything about Full-Stack Web Development and also Soft Skills like self-leadership, creativity, leadership, collaboration, communication, emotional intelligence and critical thinking.
 
-Currently I work nationally and internationally with Web Development, and I am studying at @Trybe to improve my knowledge and become a more qualified professional, I use mainly the Fiverr, LinkedIn and GetNinjas platforms to get clients (besides recommendations), I write and use my own PJ x PJ x PF contracts and manage a MEI.
+Today I see myself as a leader, developer, student and teacher, organized and focused on adding maximum value in what I do, and I believe, that if you are a recruiter, you are the best chance, for me to do this for your company, for you.
 
 You can find me on [LinkedIn][1], or on [WhatsApp][2].
 
 # Olá Pessoal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Olá, eu sou o João Pster, sou um Desenvolvedor Web Full-Stack, atuo na área da tecnologia desde muito pequeno (16 Anos), sempre fui interessado em aprender, criar e melhorar coisas que gerem valor na vida das pessoas.
+Olá, meu nome é João Pster e eu sou Desenvolvedor de Páginas.
+Meu trabalho é criar sites e soluções, para toda categoria de negócio.
 
-Tenho uma grande desenvoltura para administrar (liderar) grupos de qualquer tipo, sou um bom orador e professor, tenho facilidade para desenvolver projetos de organização e geralmente sou muito rápido para executar meus trabalhos. Sou um rápido e bom escritor, amante da língua culta, conhecedor vasto da gramática e escrita formal com extenso vocabulário, meus conhecimentos são muito variados e tenho várias habilidades, posso dizer que mesmo tendo 18 anos eu sou um "ancião" da internet (principalmente pelo fato de ter passado minha infância inteira nela) e já tive contato com quase todo tipo de experiência, conhecimento e área.
+O meu maior objetivo é poder agregar o máximo de valor aonde quer que eu esteja, por isso, desde pequeno eu me foco nos meus estudos (Hard e Soft Skills), em evolução e melhoria de mim mesmo e daquelas coisas e pessoas que estejam ao meu redor.
 
-Tenho grande facilidade de me concentrar e finalizar uma tarefa rapidamente, habilidade de perceber outros pontos de vistas e discrepâncias entre ideias, sempre fui muito iniciativo e autônomo, tenho interesse por áreas e tópicos diversos e facilidade para interagir com pessoas mais velhas.
+Eu comecei como auto-didata e ainda sou até hoje, aprendendo comunicação, desenvolvimento, design, liderança, na prática, e muitas outras coisas, em 2022 eu entrei na @Trybe e aqui estou aprendendo tudo sobre o Desenvolvimento Web Full-Stack e também Soft Skills como autoliderança, criatividade, liderança, colaboração, comunicação, inteligência emocional e pensamento crítico.
 
-Atualmente trabalho nacional e internacionalmente com o Desenvolvimento Web, e estou estudando na @Trybe para aperfeiçoar meus conhecimentos e me tornar um profissional mais qualificado, utilizo principalmente as plataformas Fiverr, LinkedIn e GetNinjas para conseguir clientes (além de recomendações), redigi e utilizo meus próprios contratos PJ x PJ x PF e administro um MEI. :wink:
+Hoje me vejo como um líder, desenvolvedor, estudante e professor, organizado e focado em agregar o máximo de valor naquilo que eu faça, e acredito, que se você for um recrutador, você seja a melhor chance, para que eu faça isso pela sua empresa, por você. :wink:
 
 Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
 
