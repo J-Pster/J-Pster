@@ -1,5 +1,4 @@
-# Visit my Knowledge Repo! 
-# [Click Here, projects and more!](https://github.com/J-Pster/meu-super-repo) 💚
+# Visit my Knowledge Repo! [Here, projects and more!](https://github.com/J-Pster/meu-super-repo) 💚
 
 # Hello, folks! ⭐
 
