@@ -2,26 +2,32 @@
 
 # Hello, folks! ⭐
 
-Hello, my name is John Pster and I am a Web Developer.
-My job is to create websites and solutions, for every kind of business.
+Hello, my name is John Pster and I'm a React + Elementor Front-End Developer.
+My job is to create websites and solutions, for every business category.
 
-My biggest goal is to be able to add the most value wherever I am, so since I was a kid I focus on my studies (Hard and Soft Skills), on evolving and improving myself and those things and people around me.
+Objective 🚩
+My biggest goal is to be able to add the most value wherever I am, so since I was little I focus on my studies (Hard and Soft Skills), on evolution and improvement of myself and those things and people around me.
 
-I started as a self-taught person and still am to this day, learning communication, development, design, leadership, in practice, and many other things, in 2022 I joined @Trybe and here I am learning everything about Full-Stack Web Development and also Soft Skills like self-leadership, creativity, leadership, collaboration, communication, emotional intelligence and critical thinking.
+History 📕
+I started as a self-starter and still am to this day, learning communication, development, design, leadership, in practice, and many other things, in 2022 I joined @Trybe and here I am learning everything about Full-Stack Web Development and also Soft Skills like self-leadership, creativity, leadership, collaboration, communication, emotional intelligence and critical thinking.
 
-Today I see myself as a leader, developer, student and teacher, organized and focused on adding maximum value in what I do, and I believe, that if you are a recruiter, you are the best chance, for me to do this for your company, for you.
+Currently 🍀✨🎉
+Today I see myself as a leader, developer, student and teacher, organized and focused on adding maximum value in whatever I do, and I believe, that if you are a recruiter, you are the best chance, for me to do this for your company, for you.
 
 You can find me on [LinkedIn][1], or on [WhatsApp][2].
 
 # Olá Pessoal! ⭐
-Olá, meu nome é João Pster e eu sou Desenvolvedor de Páginas.
+Olá, meu nome é João Pster e eu sou Desenvolvedor Front-End React + Elementor.
 Meu trabalho é criar sites e soluções, para toda categoria de negócio.
 
+Objetivo 🚩
 O meu maior objetivo é poder agregar o máximo de valor aonde quer que eu esteja, por isso, desde pequeno eu me foco nos meus estudos (Hard e Soft Skills), em evolução e melhoria de mim mesmo e daquelas coisas e pessoas que estejam ao meu redor.
 
+História 📕
 Eu comecei como auto-didata e ainda sou até hoje, aprendendo comunicação, desenvolvimento, design, liderança, na prática, e muitas outras coisas, em 2022 eu entrei na @Trybe e aqui estou aprendendo tudo sobre o Desenvolvimento Web Full-Stack e também Soft Skills como autoliderança, criatividade, liderança, colaboração, comunicação, inteligência emocional e pensamento crítico.
 
-Hoje me vejo como um líder, desenvolvedor, estudante e professor, organizado e focado em agregar o máximo de valor naquilo que eu faça, e acredito, que se você for um recrutador, você seja a melhor chance, para que eu faça isso pela sua empresa, por você. :wink:
+Atualmente 🍀✨🎉
+Hoje me vejo como um líder, desenvolvedor, estudante e professor, organizado e focado em agregar o máximo de valor naquilo que eu faça, e acredito, que se você for um recrutador, você seja a melhor chance, para que eu faça isso pela sua empresa, por você.
 
 Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
 
