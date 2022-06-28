@@ -3,6 +3,7 @@
 # Hello, folks! ⭐
 
 Hi, I'm Pster, I'm a Front-End Developer and I have 3 years of experience creating solutions for the Web market.
+
 My job is to create websites and solutions, for every business category.
 
 Objective 🚩
@@ -19,6 +20,7 @@ You can find me on [LinkedIn][1], or on [WhatsApp][2].
 # Olá Pessoal! ⭐
 
 Olá! Eu sou o Pster, sou um Desenvolvedor Front-End e tenho 3 anos de experiência criando soluções para o mercado Web.
+
 Meu trabalho é criar sites e soluções, para toda categoria de negócio.
 
 Objetivo 🚩
