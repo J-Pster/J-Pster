@@ -29,6 +29,8 @@
   <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white" />
 </p>
 
+<h4><a href="https://github.com/J-Pster/meu-super-repo" target="_blank">Veja meu repositório de estudos!</a></h4>
+
 <h3>Você pode me encontrar em</h3>
 <p><a href="https://www.linkedin.com/in/joaopster/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://api.whatsapp.com/send?phone=5562992765354&text=Vim%20pelo%20GitHub!" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a><a href="https://medium.com/@joaopsterdev" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><a href="https://www.behance.net/joaopvf" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
@@ -56,7 +58,7 @@ Hoje me vejo como um líder, desenvolvedor, estudante e professor, organizado e 
 <p>Acima temos os meus últimos posts no <a href="https://www.instagram.com/joaopster/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @joaopster!</a><br/>A temperatura aqui é de: <b> 21°C</b>,</br>Hoje, o sol nasce as <b>06:11</b> e se põe as <b>18:12</b>.</p>
 
 ------------
-<p align="center">Esse <i>README</i> é gerado <b>a cada 3 horas</b>!</br>Última Atualização: sexta-feira, 16 de setembro 00:17 BRT<br />
+<p align="center">Esse <i>README</i> é gerado <b>a cada 3 horas</b>!</br>Última Atualização: sexta-feira, 16 de setembro 00:37 BRT<br />
 <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Crie o seu próprio aqui!</a></p>
 
 <p align="center"><img src="https://github.com/J-Pster/J-Pster/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/J-Pster/J-Pster?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/J-Pster/J-Pster?style=flat-square&labelColor=343b41"/></p>
