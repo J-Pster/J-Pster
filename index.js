@@ -2,6 +2,8 @@ require('dotenv').config();
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
+const puppeteerService = require('./services/puppeteer.service');
+
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {
@@ -19,7 +21,7 @@ let DATA = {
 
 async function setWeatherInformation() {
   await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?q=stockholm&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+    `https://api.openweathermap.org/data/2.5/weather?q=goiania&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
   )
     .then(r => r.json())
     .then(r => {
@@ -39,6 +41,13 @@ async function setWeatherInformation() {
     });
 }
 
+async function setInstagramPosts() {
+  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('joaopster', 3);
+  DATA.img1 = instagramImages[0];
+  DATA.img2 = instagramImages[1];
+  DATA.img3 = instagramImages[2];
+}
+
 async function generateReadMe() {
   await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
@@ -56,7 +65,7 @@ async function action() {
   /**
    * Get pictures
    */
-  // await setInstagramPosts();
+  await setInstagramPosts();
 
   /**
    * Generate README
@@ -66,7 +75,7 @@ async function action() {
   /**
    * Fermeture de la boutique 👋
    */
-  // await puppeteerService.close();
+  await puppeteerService.close();
 }
 
 action();
