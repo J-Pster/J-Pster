@@ -14,7 +14,7 @@ x
 </p>
 
 ------------
-<p align="center">Esse <i>README</i> é gerado <b>a cada 3 horas</b>!</br>Última Atualização: quinta-feira, 15 de setembro 23:05 BRT<br />
+<p align="center">Esse <i>README</i> é gerado <b>a cada 3 horas</b>!</br>Última Atualização: quinta-feira, 15 de setembro 23:07 BRT<br />
 <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Crie o seu próprio aqui!</a></p>
 
 <p align="center"><img src="https://github.com/J-Pster/J-Pster/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/J-Pster/J-Pster?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/J-Pster/J-Pster?style=flat-square&labelColor=343b41"/></p>
