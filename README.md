@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Bom te ver aqui.</h1>
 
-<p>Bem vindo(a) a minha página! </br> Eu sou o Pster, Desenvolvedor Full-Stack e moro no <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Goiás, Brasil</b>, atualmente estudando na <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5302/26258239-4ac6-4d28-b94c-ba6d3f9eabc2.png" with="13"/> <b>Trybe</b>. </p>
+<p>Bem vindo(a) a minha página! </br> Eu sou o Pster, Desenvolvedor Full-Stack e moro no <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Goiás, Brasil</b>, atualmente estudando na <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5302/26258239-4ac6-4d28-b94c-ba6d3f9eabc2.png" width="13"/> <b>Trybe</b>. </p>
 
 <h3>Algumas coisas que sei mecher</h3>
 x
@@ -14,7 +14,7 @@ x
 </p>
 
 ------------
-<p align="center">Esse <i>README</i> é gerado <b>a cada 3 horas</b>!</br>Última Atualização: quinta-feira, 15 de setembro 23:07 BRT<br />
+<p align="center">Esse <i>README</i> é gerado <b>a cada 3 horas</b>!</br>Última Atualização: quinta-feira, 15 de setembro 23:08 BRT<br />
 <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Crie o seu próprio aqui!</a></p>
 
 <p align="center"><img src="https://github.com/J-Pster/J-Pster/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/J-Pster/J-Pster?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/J-Pster/J-Pster?style=flat-square&labelColor=343b41"/></p>
