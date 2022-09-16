@@ -1,0 +1,23 @@
+{
+  "name": "j-pster",
+  "version": "1.0.0",
+  "description": "Meu repositório pessoal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Pster/J-Pster.git"
+  },
+  "author": "João Pster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/J-Pster/J-Pster/issues"
+  },
+  "homepage": "https://github.com/J-Pster/J-Pster#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
