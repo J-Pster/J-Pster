@@ -12,15 +12,18 @@ jobs:
     runs-on: ubuntu-latest
     environment: Production
 
+    strategy:
+      matrix:
+        node-version: [16.x] # We will deploy with only one version of node 
+
     steps:
-      - name: Checkout current repository to Master branch
-        uses: actions/checkout@v1
-      - name: Setup NodeJs 17.x
-        uses: actions/setup-node@v1
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
         with:
-          node-version: '14.x'
+          node-version: ${{ matrix.node-version }}
       - name: Install dependencies
-        run: npm install
+        run: npm ci
       - name: Generate README file
         run: node index.js
       - name: Commit and Push new README.md to the repository
