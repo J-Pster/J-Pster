@@ -40,28 +40,30 @@
 
 <h2>Sobre Mim</h2>
 <p><b>
-Meu trabalho é criar sites e soluções, para toda categoria de negócio.
+Olá! ✨ Eu sou o Pster, sou programador, professor e estudante de desenvolvimento!
+Desenvolvo aplicações Full-Stack para Web em Mongo DB, Express, React e Node.js, o famoso MERN 🚀
 </b></p>
 <p>
-Objetivo 🚩
-O meu maior objetivo é poder agregar o máximo de valor aonde quer que eu esteja, por isso, desde pequeno eu me foco nos meus estudos (Hard e Soft Skills), em evolução e melhoria de mim mesmo e daquelas coisas e pessoas que estejam ao meu redor.
+Se tem algo que sou bom é em solucionar problemas, a partir de uma perspectiva ampla e lógica, consigo trabalhar no Macro e no Micro em simultâneo, pensando simultaneamente na estrutura do projeto inteiro e nas validações de cada EndPoint, por exemplo, por conta da minha condição neurológica a Superdotação.
 </p>
 <p>
-História 📕
-Eu comecei como auto-didata e ainda sou até hoje, aprendendo comunicação, desenvolvimento, design, liderança, na prática, e muitas outras coisas, em 2022 eu entrei na @Trybe e aqui estou aprendendo tudo sobre o Desenvolvimento Web Full-Stack e também Soft Skills como autoliderança, criatividade, liderança, colaboração, comunicação, inteligência emocional e pensamento crítico.
+Mas meus conhecimentos vão bem além disso, sou expert em TypeScript e C#, já desenvolvi apps nativos para Android em React Native e se sou bom em UI/UX, com um grande portfólio no Behance (Link no Final), e grande conhecimento em CSS, SASS e Tailwind.
+<br/>
+Por fim, DevOps e integrações é comigo mesmo, adoro automátizar as coisas e reduzir custos, GitHub Actions é um dos meus queridinhos.
 </p>
 <p>
-Atualmente 🍀✨🎉
-Hoje me vejo como um líder, desenvolvedor, estudante e professor, organizado e focado em agregar o máximo de valor naquilo que eu faça, e acredito, que se você for um recrutador, você seja a melhor chance, para que eu faça isso pela sua empresa, pelo mundo.
+Outros conhecimentos já aplicados meus são:
+- Chai, Sinon, RTL, ESLint, Docker, Heroku, Swagger, GraphQL, Sequelize.
+- GCP, AWS, Azure, Vercel, Railway, Firebase.
 </p>
 
 <h3>Veja meus últimos Posts!</h3>
 <p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;jEzPnVGcq5SPFhmasNlcjxmdGlDOyUkNOpFf8lkS0EGeJdXNWdmYxRmQxZEWRJDOQFzZwolcoFWSXJWYiVEf8NkMMJnZYl2Q500Umhzc41kcWpUZytSQ30WMH9mMpdUaYVGOQJEdj9US09mVE12N3pWQQtWbDNkM1VDb4ZnM1R3YGR0UhFXTzBHN5N2aoV1UINDVnt2S5wmdjpneFJDSwElVKhFSplXSPJXd8xnNv92UpNVOadEZWRjMIh0TXp3K2IHdSl1YppXUMNVSkV2c4JUTmtCR8xHWJdHR1IGUOBXb0JVYxI1V1cEdqFGOVl1KpJXRsVVe2YTOW92dLZUcWJ2VZRzRBdEMDJkcNJlex8WRNJTQ1UncvtEOhdDeixHfIV0blFlZJRVTZpmePtWU4gTbhhVWmllbLhHNixWaKBHOsJERww2QvVVY2YzNThGVTBVY3M1VMV1T5BnRaFVNWVVd0QTNpVjemx0KThUOod3S2gGR8xnbHR2d0xGO1I0VIJ2cJhnTppVeuBja3MVYjVnTSxWQHJzaQJTS5wUbXVjTklESEp1RCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3D%3DwIx8zZlBnau0TPntGcaZEcJdlMzU1NYRjY5FXepVnYGJFd4glYMdEMjd2VBtiVWdjYzwUZ3JmQrImMXRzZwtiR4I1NyVFM1YEaxBlRwg1MZRDWh9EWOVlVV5USEVnarE1RYh3MvpGUkxHfXBlQQh1c5cjWmZ2MitiaFJDV3JlQV1WSHV1UzhUQnRnZadnZ0pGayUkMXNUQ5lFO2tkbnV0Y00kSvlUStlVcwQzbwVWWpBXbiZVaS1ESMFTWaF0KIpWcsZ0UkJneohmTFRmMWdTS0J1N6VUO4dlZrhnMItSdtlna1xUNTNXTqNEc3IFbatEcnFjTQVjbLN1QVFVcVx0T1cHboFGeOdFNxEzRj5Ge1UHeyg3a0UmZzxGNhpHboFmR3NEZ0RHZE12RCJmTN9kavJ0YqNWdQZ2KKNXZ8x3b1dzRElVcEF2YDxUWqp3T19GO8xHdHhlYmFFWKBzayxGbkpFO1pkawg2Q0YFZTFnNYhHRTJ0UMNFZmBzT2QmRadVMxUFcvlUNpVjemx0KThUOod3S2gGR8xnbHR2d0xGO1I0VIJ2cJhnTppVeuBja3MVYjVmTSxWQHJzaQJTS5wUbXVjTklESEp1RCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmLKFWbw8kTEh1cjJVMuxHf0QmetpGdzJHSnR2axN1YwkTejR2YRh3VNR2bmZVYVpGdPV0ZVNUVwQjT0Ymchd0MBh3R8x3bRR3V2Z0MQJHbLdGdW1GW2sCc3UVMiJFb5kDTrJ2c6hHe05WTthmSshTbzpWQGVlMUJ1RJtmW4kzK2ETOOpHV3AHUFljdx0kU4AHTxcmV4IUREdWSSV2QWFTTzJUVHdzd2xWTM5mSUlFajZDRLRzb6t0NCRlQ1E2QwRHSPFDROljaDtGUTpnS2AXeCRTTrwkdFlFZuxHfWJ3cyV3YRt0ZrhVOMxWeOxHfw8Gd4BFM2VUehNTbsNXb3kEUVNTemRzRBdEMDJkcNJlex82RNJTQ1UncvtEOhdDeixHfIV0blFlZJRVTZpmePVXS4kzcP5mWhFESLh3bM5maSVDOqhHVxc2QJV1Y5tkNWRHVS1UYyN1YEtGU14kRaZFbsZVdrRDNtRmamx0KThUOod3S2gGR8xnbHR2d0xGO1I0VIJ2cJhnTppVeuBja3MVYjVnTSxWQHJzaQJTS5wUbXVjTklESEp1RCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /></p>
 
-<p>Acima temos os meus últimos posts no <a href="https://www.instagram.com/joaopster/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @joaopster!</a><br/>A temperatura aqui é de: <b> 23°C</b>,</br>Hoje, o sol nasce as <b>05:40</b> e se põe as <b>18:20</b>.</p>
+<p>Acima temos os meus últimos posts no <a href="https://www.instagram.com/joaopster/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @joaopster!</a><br/>A temperatura aqui é de: <b> 26°C</b>,</br>Hoje, o sol nasce as <b>05:40</b> e se põe as <b>18:20</b>.</p>
 
 ------------
-<p align="center">Esse <i>README</i> é gerado <b>a cada 3 horas</b>!</br>Última Atualização: sábado, 29 de outubro 09:39 BRT<br />
+<p align="center">Esse <i>README</i> é gerado <b>a cada 3 horas</b>!</br>Última Atualização: sábado, 29 de outubro 12:16 BRT<br />
 <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Crie o seu próprio aqui!</a></p>
 
 <p align="center"><img src="https://github.com/J-Pster/J-Pster/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/J-Pster/J-Pster?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/J-Pster/J-Pster?style=flat-square&labelColor=343b41"/></p>
