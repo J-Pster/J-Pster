@@ -60,10 +60,10 @@ Outros conhecimentos já aplicados meus são:
 <h3>Veja meus últimos Posts!</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 
-<p>Acima temos os meus últimos posts no <a href="https://www.instagram.com/joaopster/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @joaopster!</a><br/>A temperatura aqui é de: <b> 28°C</b>,</br>Hoje, o sol nasce as <b>05:35</b> e se põe as <b>18:26</b>.</p>
+<p>Acima temos os meus últimos posts no <a href="https://www.instagram.com/joaopster/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @joaopster!</a><br/>A temperatura aqui é de: <b> 26°C</b>,</br>Hoje, o sol nasce as <b>05:35</b> e se põe as <b>18:26</b>.</p>
 
 ------------
-<p align="center">Esse <i>README</i> é gerado <b>a cada 3 horas</b>!</br>Última Atualização: sábado, 12 de novembro 12:22 BRT<br />
+<p align="center">Esse <i>README</i> é gerado <b>a cada 3 horas</b>!</br>Última Atualização: sábado, 12 de novembro 15:25 BRT<br />
 <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Crie o seu próprio aqui!</a></p>
 
 <p align="center"><img src="https://github.com/J-Pster/J-Pster/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/J-Pster/J-Pster?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/J-Pster/J-Pster?style=flat-square&labelColor=343b41"/></p>
