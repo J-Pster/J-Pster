@@ -8,8 +8,7 @@ const { THEMES, esc, clamp } = require('./src/theme');
 const { fetchWakaTime } = require('./src/services/wakatime.service');
 const { fetchGitHub } = require('./src/services/github.service');
 const { heroCard } = require('./src/cards/hero.card');
-const { wakatimeCard } = require('./src/cards/wakatime.card');
-const { statsCard } = require('./src/cards/stats.card');
+const { activityCard } = require('./src/cards/activity.card');
 const { heatmapCard } = require('./src/cards/heatmap.card');
 
 const TEMPLATE = path.join(__dirname, 'main.mustache');
@@ -73,8 +72,7 @@ async function main() {
       stars: gh.stars,
       wakaHours: waka.allTimeHours,
     }),
-    writeCard('wakatime', wakatimeCard, waka),
-    writeCard('stats', statsCard, gh),
+    writeCard('activity', activityCard, { waka, gh }),
     writeCard('heatmap', heatmapCard, gh),
   ]);
 

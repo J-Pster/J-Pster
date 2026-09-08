@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="WakaTime activity for the last 7 days and GitHub activity for the last 12 months">
+  <title>Coding activity · WakaTime last 7 days and GitHub last 12 months</title>
+  <style>
+    .card-title { font-family: ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace; font-size: 13px; font-weight: 700; fill: #FFFFFF; letter-spacing: 1.6px; }
+    .card-sub   { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10.5px; fill: #4A5A6B; letter-spacing: 0.5px; }
+    .big-w      { font-family: ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace; font-size: 26px; font-weight: 700; fill: #22D3EE; }
+    .big-g      { font-family: ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace; font-size: 26px; font-weight: 700; fill: #A78BFA; }
+    .big-label  { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10.5px; fill: #7D8DA1; }
+    .row-label  { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11.5px; font-weight: 500; fill: #E6EDF3; }
+    .row-value  { font-family: ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace; font-size: 11px; fill: #7D8DA1; }
+    .cell-value { font-family: ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace; font-size: 19px; font-weight: 700; fill: #E6EDF3; }
+    .cell-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10.5px; fill: #4A5A6B; }
+    .foot       { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10px; fill: #4A5A6B; }
+    .foot-b     { font-family: ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace; font-size: 10px; font-weight: 700; fill: #E6EDF3; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="879" height="299" rx="14" fill="#0F1620" stroke="#1D2B3A"/>
+  <rect x="0.5" y="0.5" width="428" height="3" rx="1.5" fill="#22D3EE" opacity="0.85"/>
+  <rect x="452" y="0.5" width="427" height="3" rx="1.5" fill="#A78BFA" opacity="0.85"/>
+  <line x1="440" y1="28" x2="440" y2="272" stroke="#1D2B3A"/>
+
+  
+  <text class="card-title" x="24" y="38">WAKATIME</text>
+  <text class="card-sub" x="24" y="54">measured, not estimated · last 7 days</text>
+  <text class="big-w" x="24" y="86">62 hrs 4 mins</text>
+  <text class="big-label" x="404" y="86" text-anchor="end">8 hrs 52 mins / day</text>
+  
+    <g>
+      <text class="row-label" x="24" y="116">TypeScript</text>
+      <rect x="132" y="106" width="222" height="9" rx="4.5" fill="#141D28"/>
+      <rect x="132" y="106" width="222.0" height="9" rx="4.5" fill="#3178C6"/>
+      <text class="row-value" x="404" y="116" text-anchor="end">24.1%</text>
+    </g>
+    <g>
+      <text class="row-label" x="24" y="142">Other</text>
+      <rect x="132" y="132" width="222" height="9" rx="4.5" fill="#141D28"/>
+      <rect x="132" y="132" width="154.2" height="9" rx="4.5" fill="#5A6876"/>
+      <text class="row-value" x="404" y="142" text-anchor="end">16.8%</text>
+    </g>
+    <g>
+      <text class="row-label" x="24" y="168">JSON</text>
+      <rect x="132" y="158" width="222" height="9" rx="4.5" fill="#141D28"/>
+      <rect x="132" y="158" width="137.8" height="9" rx="4.5" fill="#6BA539"/>
+      <text class="row-value" x="404" y="168" text-anchor="end">15.0%</text>
+    </g>
+    <g>
+      <text class="row-label" x="24" y="194">Markdown</text>
+      <rect x="132" y="184" width="222" height="9" rx="4.5" fill="#141D28"/>
+      <rect x="132" y="184" width="125.8" height="9" rx="4.5" fill="#8B93A1"/>
+      <text class="row-value" x="404" y="194" text-anchor="end">13.7%</text>
+    </g>
+    <g>
+      <text class="row-label" x="24" y="220">Bash</text>
+      <rect x="132" y="210" width="222" height="9" rx="4.5" fill="#141D28"/>
+      <rect x="132" y="210" width="60.0" height="9" rx="4.5" fill="#89E051"/>
+      <text class="row-value" x="404" y="220" text-anchor="end">6.5%</text>
+    </g>
+  <text class="foot" x="24" y="238">AI-assisted coding</text>
+  <text class="foot" x="404" y="238" text-anchor="end">74%</text>
+  <rect x="24" y="246" width="380" height="6" rx="3" fill="#141D28"/>
+  <rect x="24" y="246" width="282.5" height="6" rx="3" fill="#A78BFA"/>
+  <line x1="24" y1="262" x2="404" y2="262" stroke="#1D2B3A"/>
+  <text class="foot" x="24" y="282">VS Code 55%  ·  Claude Code 44%  ·  Chrome 0%</text>
+  <text class="foot" x="404" y="282" text-anchor="end">all time: 1,696 hrs 28 mins</text>
+  
+  <text class="card-title" x="476" y="38">GITHUB</text>
+  <text class="card-sub" x="476" y="54">rolling 12 months of activity</text>
+  <text class="big-g" x="476" y="86">4,391</text>
+  <text class="big-label" x="856" y="86" text-anchor="end">contributions</text>
+  
+    <g transform="translate(476, 112)">
+      <rect x="0" y="-2" width="2" height="34" rx="1" fill="#22D3EE" opacity="0.8"/>
+      <text class="cell-value" x="14" y="18">4,307</text>
+      <text class="cell-label" x="14" y="33">commits</text>
+    </g>
+    <g transform="translate(666, 112)">
+      <rect x="0" y="-2" width="2" height="34" rx="1" fill="#A78BFA" opacity="0.8"/>
+      <text class="cell-value" x="14" y="18">46</text>
+      <text class="cell-label" x="14" y="33">pull requests</text>
+    </g>
+    <g transform="translate(476, 178)">
+      <rect x="0" y="-2" width="2" height="34" rx="1" fill="#34D399" opacity="0.8"/>
+      <text class="cell-value" x="14" y="18">58</text>
+      <text class="cell-label" x="14" y="33">repos touched</text>
+    </g>
+    <g transform="translate(666, 178)">
+      <rect x="0" y="-2" width="2" height="34" rx="1" fill="#FBBF24" opacity="0.8"/>
+      <text class="cell-value" x="14" y="18">7</text>
+      <text class="cell-label" x="14" y="33">issues</text>
+    </g>
+  <line x1="476" y1="242" x2="856" y2="242" stroke="#1D2B3A"/>
+  
+  <text class="foot" x="476" y="260" text-anchor="start">longest streak</text>
+  <text class="foot-b" x="476" y="278" text-anchor="start">13 days</text>
+  <text class="foot" x="666" y="260" text-anchor="middle">active days</text>
+  <text class="foot-b" x="666" y="278" text-anchor="middle">228</text>
+  <text class="foot" x="856" y="260" text-anchor="end">stars</text>
+  <text class="foot-b" x="856" y="278" text-anchor="end">312</text>
+</svg>

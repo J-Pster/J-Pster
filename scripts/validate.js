@@ -10,8 +10,7 @@ const path = require('node:path');
 
 const { THEMES } = require('../src/theme');
 const { heroCard } = require('../src/cards/hero.card');
-const { wakatimeCard } = require('../src/cards/wakatime.card');
-const { statsCard } = require('../src/cards/stats.card');
+const { activityCard } = require('../src/cards/activity.card');
 const { heatmapCard } = require('../src/cards/heatmap.card');
 
 const waka = {
@@ -64,8 +63,7 @@ const gh = {
 
 const cards = [
   ['hero', heroCard, { totalContributions: gh.totalContributions, stars: gh.stars, wakaHours: waka.allTimeHours }],
-  ['wakatime', wakatimeCard, waka],
-  ['stats', statsCard, gh],
+  ['activity', activityCard, { waka, gh }],
   ['heatmap', heatmapCard, gh],
 ];
 
