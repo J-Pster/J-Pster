@@ -61,8 +61,8 @@
   <text class="name" x="46" y="110">João Pster<tspan class="cursor" fill="#22D3EE">_</tspan></text>
   <g clip-path="url(#role-clip)"><g class="roller">
       <text class="role" x="46" y="150">Senior Web Software Architect</text>
-      <text class="role" x="46" y="176">AI Engineer  ·  Agentic Systems</text>
-      <text class="role" x="46" y="202">Full-Stack  ·  TypeScript · Node · Angular</text>
+      <text class="role" x="46" y="176">AI Engineer  ·  document intelligence</text>
+      <text class="role" x="46" y="202">AWS  ·  CDK, ECS Fargate, TypeScript</text>
   </g></g>
   
     <g transform="translate(46, 186)">

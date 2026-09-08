@@ -20,17 +20,18 @@
 
 ## `01` &nbsp;Background
 
-I co-founded [BidChex](https://bidchex.com) and I run engineering there. It is a platform homeowners associations use to manage capital projects and take bids from vendors. In practice that means a NestJS backend on PostgreSQL, an Angular web app, a mobile client, and a SOAP bridge into QuickBooks, because that is the accounting software the people on the other end already have open.
+I co-founded [BidChex](https://bidchex.com) and I lead engineering there. It is an AI bid intelligence platform for homeowners associations. The company is two people, me and my business partner, and I have written the product myself since the first commit: infrastructure, backend, web, mobile, and the AI pipeline on top.
 
-The piece I spend the most time on is the extraction layer. Bid documents arrive as whatever the vendor felt like sending, and the job is to get them into rows you can put next to each other.
+Most of what I know sits between AWS and applied AI. On the infrastructure side that is infrastructure as code with CDK in TypeScript, containers on ECS Fargate, and enough cost tuning to keep the monthly bill honest. On the AI side, document processing, entity extraction, vector search, and the prompt pipelines that hold those stages together.
 
 Ten years or so of web and mobile work before and around that, mostly TypeScript. There are {{public_repos}} public repos here and {{stars}} stars, though most of what I write is private.
 
 ```yaml
 role:     Co-founder & Head of Engineering @ BidChex
 based_in: Goiânia, Goiás, Brazil (UTC-3)
-daily:    TypeScript · NestJS · Angular · PostgreSQL · AWS
-lately:   document extraction, MCP servers, agent tooling
+cloud:    AWS CDK · ECS Fargate · RDS · Cognito · CodePipeline
+daily:    TypeScript · NestJS · Angular · PostgreSQL · Redis
+ai:       document extraction · embeddings · prompt pipelines
 contact:  joaopster@proton.me
 ```
 

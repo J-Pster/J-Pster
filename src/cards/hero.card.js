@@ -17,8 +17,8 @@ const ROLE_BASELINE = 150;
 function heroCard(theme, data) {
   const roles = [
     'Senior Web Software Architect',
-    'AI Engineer  ·  Agentic Systems',
-    'Full-Stack  ·  TypeScript · Node · Angular',
+    'AI Engineer  ·  document intelligence',
+    'AWS  ·  CDK, ECS Fargate, TypeScript',
   ];
 
   const roleNodes = roles
