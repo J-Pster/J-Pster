@@ -61,26 +61,26 @@
   <rect x="24" y="246" width="282.5" height="6" rx="3" fill="#A78BFA"/>
   <line x1="24" y1="262" x2="404" y2="262" stroke="#1D2B3A"/>
   <text class="foot" x="24" y="282">VS Code 55%  ·  Claude Code 44%  ·  Chrome 0%</text>
-  <text class="foot" x="404" y="282" text-anchor="end">all time: 1,696 hrs 28 mins</text>
+  <text class="foot" x="404" y="282" text-anchor="end">all time: 1,696 hrs 37 mins</text>
   
   <text class="card-title" x="476" y="38">GITHUB</text>
   <text class="card-sub" x="476" y="54">rolling 12 months of activity</text>
-  <text class="big-g" x="476" y="86">4,391</text>
+  <text class="big-g" x="476" y="86">4,392</text>
   <text class="big-label" x="856" y="86" text-anchor="end">contributions</text>
   
     <g transform="translate(476, 112)">
       <rect x="0" y="-2" width="2" height="34" rx="1" fill="#22D3EE" opacity="0.8"/>
-      <text class="cell-value" x="14" y="18">85</text>
+      <text class="cell-value" x="14" y="18">4,308</text>
       <text class="cell-label" x="14" y="33">commits</text>
     </g>
     <g transform="translate(666, 112)">
       <rect x="0" y="-2" width="2" height="34" rx="1" fill="#A78BFA" opacity="0.8"/>
-      <text class="cell-value" x="14" y="18">7</text>
+      <text class="cell-value" x="14" y="18">46</text>
       <text class="cell-label" x="14" y="33">pull requests</text>
     </g>
     <g transform="translate(476, 178)">
       <rect x="0" y="-2" width="2" height="34" rx="1" fill="#34D399" opacity="0.8"/>
-      <text class="cell-value" x="14" y="18">15</text>
+      <text class="cell-value" x="14" y="18">58</text>
       <text class="cell-label" x="14" y="33">repos touched</text>
     </g>
     <g transform="translate(666, 178)">

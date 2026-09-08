@@ -132,7 +132,7 @@ ${roleFrames}
   </g>
   <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="18" fill="none" stroke="${theme.border}"/>
 
-  <text class="kicker" x="46" y="62">BIDCHEX · BUILDING IN PUBLIC</text>
+  <text class="kicker" x="46" y="62">BIDCHEX · CO-FOUNDER &amp; HEAD OF ENGINEERING</text>
   <text class="name" x="46" y="110">João Pster<tspan class="cursor" fill="${theme.accent}">_</tspan></text>
   <g clip-path="url(#role-clip)"><g class="roller">${roleNodes}
   </g></g>

@@ -57,7 +57,7 @@
   </g>
   <rect x="0.5" y="0.5" width="879" height="259" rx="18" fill="none" stroke="#D8E0E8"/>
 
-  <text class="kicker" x="46" y="62">BIDCHEX · BUILDING IN PUBLIC</text>
+  <text class="kicker" x="46" y="62">BIDCHEX · CO-FOUNDER &amp; HEAD OF ENGINEERING</text>
   <text class="name" x="46" y="110">João Pster<tspan class="cursor" fill="#0891B2">_</tspan></text>
   <g clip-path="url(#role-clip)"><g class="roller">
       <text class="role" x="46" y="150">Senior Web Software Architect</text>
@@ -82,7 +82,7 @@
     </g>
   
     <g transform="translate(580, 64)">
-      <text class="metric-value" x="220" y="0" text-anchor="end">4,391</text>
+      <text class="metric-value" x="220" y="0" text-anchor="end">4,392</text>
       <text class="metric-label" x="220" y="18" text-anchor="end">contributions / yr</text>
       <rect x="232" y="-14" width="2" height="20" rx="1" fill="#0891B2" opacity="0.55"/>
     </g>
@@ -92,7 +92,7 @@
       <rect x="232" y="-14" width="2" height="20" rx="1" fill="#0891B2" opacity="0.55"/>
     </g>
     <g transform="translate(580, 168)">
-      <text class="metric-value" x="220" y="0" text-anchor="end">1,696h</text>
+      <text class="metric-value" x="220" y="0" text-anchor="end">1,697h</text>
       <text class="metric-label" x="220" y="18" text-anchor="end">tracked coding</text>
       <rect x="232" y="-14" width="2" height="20" rx="1" fill="#0891B2" opacity="0.55"/>
     </g>
