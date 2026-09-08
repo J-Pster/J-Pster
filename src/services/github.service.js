@@ -9,6 +9,7 @@ const ENDPOINT = 'https://api.github.com/graphql';
 
 const QUERY = `
 query ($login: String!) {
+  viewer { login }
   user(login: $login) {
     name
     login
@@ -68,12 +69,18 @@ async function fetchGitHub(login, token) {
   }
 
   const user = body.data.user;
+  // A token belonging to the profile owner sees private contributions in the
+  // counters; the Action's default GITHUB_TOKEN authenticates as a bot and
+  // silently reports public-only numbers. The card labels itself accordingly.
+  const seesPrivate =
+    body.data.viewer?.login?.toLowerCase() === login.toLowerCase();
   const contrib = user.contributionsCollection;
   const days = contrib.contributionCalendar.weeks.flatMap(w => w.contributionDays);
 
   return {
     name: user.name,
     login: user.login,
+    seesPrivate,
     followers: user.followers.totalCount,
     following: user.following.totalCount,
     totalContributions: contrib.contributionCalendar.totalContributions,

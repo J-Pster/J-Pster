@@ -47,6 +47,7 @@ const weeks = Array.from({ length: 53 }, (_, w) => ({
 
 const gh = {
   login: 'J-Pster',
+  seesPrivate: true,
   followers: 97,
   totalContributions: 4387,
   commits: 81,

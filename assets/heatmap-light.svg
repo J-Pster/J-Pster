@@ -12,7 +12,7 @@
   <rect x="0.5" y="0.5" width="879" height="3" rx="1.5" fill="#059669" opacity="0.85"/>
 
   <text class="card-title" x="24" y="36">CONTRIBUTION HEATMAP</text>
-  <text class="card-sub" x="24" y="52">rendered from the GraphQL calendar · no third-party proxy</text>
+  <text class="card-sub" x="24" y="52">drawn from the GraphQL contribution calendar</text>
   <text class="count" x="856" y="42" text-anchor="end">4,393</text>
 
   <text class="axis" x="58" y="74">Sep</text><text class="axis" x="114" y="74">Oct</text><text class="axis" x="170" y="74">Nov</text><text class="axis" x="240" y="74">Dec</text><text class="axis" x="296" y="74">Jan</text><text class="axis" x="352" y="74">Feb</text><text class="axis" x="408" y="74">Mar</text><text class="axis" x="478" y="74">Apr</text><text class="axis" x="534" y="74">May</text><text class="axis" x="604" y="74">Jun</text><text class="axis" x="660" y="74">Jul</text><text class="axis" x="716" y="74">Aug</text>

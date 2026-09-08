@@ -88,7 +88,7 @@ function heatmapCard(theme, gh) {
   <rect x="0.5" y="0.5" width="${W - 1}" height="3" rx="1.5" fill="${theme.accent3}" opacity="0.85"/>
 
   <text class="card-title" x="24" y="36">CONTRIBUTION HEATMAP</text>
-  <text class="card-sub" x="24" y="52">rendered from the GraphQL calendar · no third-party proxy</text>
+  <text class="card-sub" x="24" y="52">drawn from the GraphQL contribution calendar</text>
   <text class="count" x="${W - 24}" y="42" text-anchor="end">${gh.totalContributions.toLocaleString('en-US')}</text>
 
   ${monthLabels.join('')}

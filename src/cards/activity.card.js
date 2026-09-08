@@ -79,7 +79,7 @@ function wakaPanel(theme, waka, ox) {
 
   return `
   <text class="card-title" x="${ox + 24}" y="38">WAKATIME</text>
-  <text class="card-sub" x="${ox + 24}" y="54">measured, not estimated · last 7 days</text>
+  <text class="card-sub" x="${ox + 24}" y="54">last 7 days, from the WakaTime API</text>
   <text class="big-w" x="${ox + 24}" y="86">${esc(waka.weeklyTotal)}</text>
   <text class="big-label" x="${ox + PANEL - 24}" y="86" text-anchor="end">${esc(waka.dailyAverage)} / day</text>
   ${rows}
@@ -128,7 +128,7 @@ function githubPanel(theme, gh, ox) {
 
   return `
   <text class="card-title" x="${ox + 24}" y="38">GITHUB</text>
-  <text class="card-sub" x="${ox + 24}" y="54">rolling 12 months of activity</text>
+  <text class="card-sub" x="${ox + 24}" y="54">last 12 months${gh.seesPrivate ? ', public and private' : ', public repositories'}</text>
   <text class="big-g" x="${ox + 24}" y="86">${gh.totalContributions.toLocaleString('en-US')}</text>
   <text class="big-label" x="${ox + PANEL - 24}" y="86" text-anchor="end">contributions</text>
   ${grid}
