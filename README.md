@@ -1,30 +1,202 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Bom te ver aqui.</h1>
+<div align="center">
 
-<p>Bem vindo(a) a minha página! </br> Eu sou o João Pster, Socio-Fundador de uma Startup, Desenvolvedor a 8 anos, morando em <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Goiânia, Goiás, Brasil</b>.</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/hero-light.svg">
+  <img alt="João Pster, Senior Web Software Architect and AI Engineer at BidChex" src="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/hero-dark.svg" width="880">
+</picture>
 
-<h3>Algumas tecnologias que tenho domínio</h3>
 <p>
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <a href="https://bidchex.com"><img alt="BidChex" src="https://img.shields.io/badge/BidChex-bidchex.com-22D3EE?style=for-the-badge&labelColor=0B0F14"></a>
+  <a href="https://www.linkedin.com/in/ojoaopster/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ojoaopster-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F14"></a>
+  <a href="https://joaopster.com"><img alt="Website" src="https://img.shields.io/badge/Website-joaopster.com-A78BFA?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0B0F14"></a>
+  <a href="mailto:joaopster@proton.me"><img alt="Email" src="https://img.shields.io/badge/Email-proton.me-34D399?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0B0F14"></a>
+  <a href="https://wakatime.com/@JoaoPster"><img alt="WakaTime all time" src="https://wakatime.com/badge/user/2cbb298c-acb2-469e-99a1-b264edbcf712.svg?style=for-the-badge&labelColor=0B0F14"></a>
 </p>
 
-<h1>Veja abaixo meus projetos fixados</h1>
+</div>
+
+---
+
+## `01` &nbsp;Who is typing
+
+I design and ship **production systems**, not demos. Today that means **[BidChex](https://bidchex.com)**, a platform where homeowners associations run their capital projects and vendor bidding end to end. On the engineering side that is a NestJS + PostgreSQL backend, an Angular front end, a mobile client, a QuickBooks Web Connector (SOAP) integration for accounting, and an AI layer that turns messy project documents into structured, comparable data.
+
+Around it: **24 public repositories**, **312 stars**, **97 followers**, and roughly a decade of building things that had to stay up on Monday morning.
+
+```yaml
+role:      Senior Web Software Architect · AI Engineer
+company:   BidChex          # bidchex.com
+location:  Goiânia, Goiás, Brazil (UTC-3)
+focus:     agentic AI systems · distributed backends · developer tooling
+philosophy: ship small, measure everything, delete more than you add
+open_to:   technical partnerships, open-source collaboration, speaking
+```
+
+---
+
+## `02` &nbsp;Instrumented, not estimated
+
+Everything below is regenerated by a GitHub Action from the **WakaTime** and **GitHub GraphQL** APIs. The SVGs are rendered by [`src/cards`](src/cards) in this repository, so there is no third-party widget service in the loop, no rate limit, and no broken image on a bad day. Both themes are shipped and switched with `prefers-color-scheme`.
+
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/wakatime-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/wakatime-light.svg"><img alt="WakaTime activity for the last 7 days" src="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/wakatime-dark.svg" width="434"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/stats-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/stats-light.svg"><img alt="GitHub activity for the last 12 months" src="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/stats-dark.svg" width="434"></picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/heatmap-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/heatmap-light.svg">
+  <img alt="Contribution heatmap for the last 12 months" src="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/heatmap-dark.svg" width="880">
+</picture>
+
+<sub><b>1,695 hrs 36 mins</b> of tracked coding since Sun Jan 11th 2026 · currently averaging <b>8 hrs 52 mins</b> per day · <b>TypeScript</b> is 24% of this week</sub>
+
+</div>
+
+---
+
+## `03` &nbsp;Stack I actually reach for
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+<img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-E38C00?style=flat-square&logo=postgresql&logoColor=white">
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+<img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
+<img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+<img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+</td>
+</tr>
+<tr>
+<td><b>AI &amp; agents</b></td>
+<td>
+<img alt="Anthropic Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
+<img alt="Model Context Protocol" src="https://img.shields.io/badge/MCP-1F2937?style=flat-square&logo=anthropic&logoColor=white">
+<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+<img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+<img alt="ElevenLabs" src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white">
+</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white">
+</td>
+</tr>
+<tr>
+<td><b>Platform</b></td>
+<td>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
+<img alt="AWS CDK" src="https://img.shields.io/badge/CDK-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+</td>
+</tr>
+</table>
+
+---
+
+## `04` &nbsp;Selected work
+
+<table>
+<tr>
+<td valign="top" width="50%">
+<a href="https://github.com/J-Pster/Psters_AI_Workflow"><b>Psters_AI_Workflow</b></a> <code>★ 289</code><br/>
+<img src="https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logoColor=white" height="18" alt="JavaScript"/><br/>
+<sub>An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the …</sub>
+</td>
+<td valign="top" width="50%">
+<a href="https://github.com/J-Pster/pster-voice"><b>pster-voice</b></a><br/>
+<img src="https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logoColor=white" height="18" alt="Kotlin"/><br/>
+<sub>Floating-bubble voice dictation for Android: hold, speak, release, and the transcribed text (ElevenLabs Scribe v2 + optional Gemini cleanup) is pasted automatically into any …</sub>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<a href="https://github.com/J-Pster/pster-live-avatar"><b>pster-live-avatar</b></a><br/>
+<img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logoColor=white" height="18" alt="HTML"/><br/>
+<sub>Real-time 3D face-tracking avatar (procedural grenade, TheBurntPeanut style) + mouse/keyboard overlay for OBS. Three.js + MediaPipe, fully offline.</sub>
+</td>
+<td valign="top" width="50%">
+<a href="https://github.com/J-Pster/pster-cliping"><b>pster-cliping</b></a><br/>
+<img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logoColor=white" height="18" alt="Python"/><br/>
+<sub>Clipador: a SaaS that turns YouTube videos into short (9:16) and long (16:9) clips with AI-powered cut selection, burned-in subtitles, AI-generated thumbnails, and ready-to-p…</sub>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<a href="https://github.com/J-Pster/LicitaHawk"><b>LicitaHawk</b></a><br/>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logoColor=white" height="18" alt="TypeScript"/><br/>
+<sub>REST API + MCP server over Brazil&apos;s official public procurement data (PNCP), with webhook/email alerts and recurring billing</sub>
+</td>
+<td valign="top" width="50%">
+<a href="https://github.com/J-Pster/usb-dashboard"><b>usb-dashboard</b></a><br/>
+<img src="https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logoColor=white" height="18" alt="JavaScript"/><br/>
+<sub>🖥️ A retro-modern Electron kiosk dashboard for a secondary USB display — CPU, RAM, GPU, processes, Claude usage, Linear, WakaTime &amp; Sentry at a glance.</sub>
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>Pinned repositories are pulled live from the GitHub API on every build.</sub></div>
+
+---
+
+## `05` &nbsp;How this README builds itself
+
+```
+GitHub Action (every 6h)
+  ├─ src/services/wakatime.service.js   → last 7 days + all-time totals
+  ├─ src/services/github.service.js     → contribution calendar, counters, pinned repos
+  ├─ src/cards/*.card.js                → 8 SVGs (4 cards × dark/light), zero dependencies
+  └─ main.mustache                      → README.md
+```
+
+No Puppeteer, no scraping, no external image service. The whole build is two HTTPS calls and a string template, and it finishes in a few seconds. If you want the same thing on your profile, fork it: the only secrets you need are `WAKATIME_API_KEY` and the automatic `GITHUB_TOKEN`.
+
+---
+
+<div align="center">
+
+<sub>Last rebuild: <b>8 Sept 2026, 11:52 (BRT)</b> · 4,389 contributions in the last 12 months</sub>
+
+<br/>
+
+<img alt="README build" src="https://github.com/J-Pster/J-Pster/actions/workflows/readme.yml/badge.svg">
+<img alt="Stars" src="https://img.shields.io/github/stars/J-Pster/J-Pster?style=flat-square&labelColor=0B0F14&color=22D3EE">
+<img alt="Followers" src="https://img.shields.io/github/followers/J-Pster?style=flat-square&labelColor=0B0F14&color=A78BFA">
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=J-Pster&style=flat-square&color=34D399&label=profile+views">
+
+<br/><br/>
+
+<sub><i>Ship small, measure everything, delete more than you add.</i></sub>
+
+</div>

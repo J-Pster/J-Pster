@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="434" height="300" viewBox="0 0 434 300" role="img" aria-label="GitHub activity over the last 12 months">
+  <title>GitHub · last 12 months</title>
+  <style>
+    .card-title { font-family: ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace; font-size: 13px; font-weight: 700; fill: #FFFFFF; letter-spacing: 1.6px; }
+    .card-sub   { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10.5px; fill: #4A5A6B; letter-spacing: 0.5px; }
+    .big        { font-family: ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace; font-size: 26px; font-weight: 700; fill: #A78BFA; }
+    .big-label  { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10.5px; fill: #7D8DA1; }
+    .cell-value { font-family: ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace; font-size: 19px; font-weight: 700; fill: #E6EDF3; }
+    .cell-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10.5px; fill: #4A5A6B; }
+    .foot       { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10px; fill: #4A5A6B; }
+    .foot-b     { font-family: ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace; font-size: 10px; font-weight: 700; fill: #E6EDF3; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="433" height="299" rx="14" fill="#0F1620" stroke="#1D2B3A"/>
+  <rect x="0.5" y="0.5" width="433" height="3" rx="1.5" fill="#A78BFA" opacity="0.85"/>
+
+  <text class="card-title" x="24" y="34">GITHUB</text>
+  <text class="card-sub" x="24" y="50">rolling 12 months of activity</text>
+
+  <text class="big" x="24" y="82">4,389</text>
+  <text class="big-label" x="410" y="82" text-anchor="end">contributions</text>
+
+  
+    <g transform="translate(24, 110)">
+      <g>
+        <rect x="0" y="-2" width="2" height="34" rx="1" fill="#22D3EE" opacity="0.8"/>
+        <text class="cell-value" x="14" y="18">83</text>
+        <text class="cell-label" x="14" y="33">commits</text>
+      </g>
+    </g>
+    <g transform="translate(217, 110)">
+      <g>
+        <rect x="0" y="-2" width="2" height="34" rx="1" fill="#A78BFA" opacity="0.8"/>
+        <text class="cell-value" x="14" y="18">7</text>
+        <text class="cell-label" x="14" y="33">pull requests</text>
+      </g>
+    </g>
+    <g transform="translate(24, 180)">
+      <g>
+        <rect x="0" y="-2" width="2" height="34" rx="1" fill="#34D399" opacity="0.8"/>
+        <text class="cell-value" x="14" y="18">15</text>
+        <text class="cell-label" x="14" y="33">repos touched</text>
+      </g>
+    </g>
+    <g transform="translate(217, 180)">
+      <g>
+        <rect x="0" y="-2" width="2" height="34" rx="1" fill="#FBBF24" opacity="0.8"/>
+        <text class="cell-value" x="14" y="18">7</text>
+        <text class="cell-label" x="14" y="33">issues</text>
+      </g>
+    </g>
+
+  <line x1="24" y1="248" x2="410" y2="248" stroke="#1D2B3A"/>
+  <text class="foot" x="24" y="268">longest streak</text>
+  <text class="foot-b" x="24" y="284">13 days</text>
+  <text class="foot" x="217" y="268" text-anchor="middle">active days</text>
+  <text class="foot-b" x="217" y="284" text-anchor="middle">228</text>
+  <text class="foot" x="410" y="268" text-anchor="end">stars</text>
+  <text class="foot-b" x="410" y="284" text-anchor="end">312</text>
+</svg>

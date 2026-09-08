@@ -1,11 +1,15 @@
 {
   "name": "j-pster",
-  "version": "1.0.0",
-  "description": "Meu repositório pessoal",
+  "version": "2.0.0",
+  "description": "Self-building GitHub profile README: WakaTime + GitHub GraphQL rendered into self-hosted dark/light SVG cards.",
   "main": "index.js",
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node index.js",
+    "test": "node scripts/validate.js"
   },
   "repository": {
     "type": "git",
@@ -13,8 +17,10 @@
   },
   "keywords": [
     "readme.md",
-    "github",
-    "actions",
+    "github-profile",
+    "github-actions",
+    "wakatime",
+    "svg",
     "dynamic",
     "javascript",
     "typescript",
@@ -28,9 +34,7 @@
   },
   "homepage": "https://github.com/J-Pster/J-Pster#readme",
   "dependencies": {
-    "dotenv": "^16.0.2",
-    "mustache": "^4.2.0",
-    "node-fetch": "^2.6.7",
-    "puppeteer": "^17.1.3"
+    "dotenv": "^16.4.5",
+    "mustache": "^4.2.0"
   }
 }
