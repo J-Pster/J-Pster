@@ -82,7 +82,7 @@
     </g>
   
     <g transform="translate(580, 64)">
-      <text class="metric-value" x="220" y="0" text-anchor="end">4,393</text>
+      <text class="metric-value" x="220" y="0" text-anchor="end">4,394</text>
       <text class="metric-label" x="220" y="18" text-anchor="end">contributions / yr</text>
       <rect x="232" y="-14" width="2" height="20" rx="1" fill="#0891B2" opacity="0.55"/>
     </g>
