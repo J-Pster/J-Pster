@@ -28,7 +28,7 @@ Scale and cost land on me too, rather than on somebody else's platform team. Lam
 
 <table>
 <tr>
-<td valign="top"><b>Infrastructure</b><br/><sub>where I go deepest</sub></td>
+<td valign="top"><b>Infrastructure</b><br/><sub>AWS</sub></td>
 <td>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
 <img alt="AWS CDK" src="https://img.shields.io/badge/CDK%20IaC-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
@@ -199,7 +199,7 @@ Fork it if you want the same setup. `WAKATIME_API_KEY` is the only secret you ne
 
 <div align="center">
 
-<sub>Last rebuild: <b>8 Sept 2026, 13:10 (BRT)</b> · 4,395 contributions in the last 12 months</sub>
+<sub>Last rebuild: <b>8 Sept 2026, 13:11 (BRT)</b> · 4,396 contributions in the last 12 months</sub>
 
 <br/>
 
