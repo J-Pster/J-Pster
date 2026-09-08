@@ -18,21 +18,96 @@
 
 ---
 
-## `01` &nbsp;Background
+## `01` &nbsp;What I know
 
-I co-founded [BidChex](https://bidchex.com) and I lead engineering there. It is an AI bid intelligence platform for homeowners associations. The company is two people, me and my business partner, and I have written the product myself since the first commit: infrastructure, backend, web, mobile, and the AI pipeline on top.
+I build the whole thing: infrastructure, backend, frontend, mobile. I go deep in all four. I have taken systems in each of them from an empty repository to production traffic, and I am the one on call when they break. AWS is where I go deepest of all.
 
-Most of what I know sits between AWS and applied AI. On the infrastructure side that is infrastructure as code with CDK in TypeScript, containers on ECS Fargate, and enough cost tuning to keep the monthly bill honest. On the AI side, document processing, entity extraction, vector search, and the prompt pipelines that hold those stages together.
+[BidChex](https://bidchex.com) is the proof. I co-founded it and wrote every part of the platform myself, starting from the first commit. The AWS infrastructure, the API, the web app, the mobile client, the document pipeline. The company is two people, my business partner and me, and I am still the only engineer on it.
 
-Ten years or so of web and mobile work before and around that, mostly TypeScript. There are 24 public repos here and 312 stars, though most of what I write is private.
+Scale and cost land on me too, rather than on somebody else's platform team. Lambda and Fargate sized against real traffic, RDS with the indexes and replicas the queries need, S3 lifecycle rules, and a monthly bill I can explain line by line.
+
+<table>
+<tr>
+<td valign="top"><b>Infrastructure</b><br/><sub>where I go deepest</sub></td>
+<td>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
+<img alt="AWS CDK" src="https://img.shields.io/badge/CDK%20IaC-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
+<img alt="AWS Lambda" src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white">
+<img alt="ECS Fargate" src="https://img.shields.io/badge/ECS%20Fargate-FF9900?style=flat-square&logo=amazonecs&logoColor=white">
+<img alt="Amazon RDS" src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
+<img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
+<img alt="API Gateway" src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white">
+<img alt="Amazon Cognito" src="https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazoncognito&logoColor=white">
+<img alt="Amazon VPC" src="https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logo=amazonvpc&logoColor=white">
+<img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white">
+<img alt="CodePipeline" src="https://img.shields.io/badge/CodePipeline-4053D6?style=flat-square&logo=awscodepipeline&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+<br/><sub>Autoscaling, VPC design, CI/CD to containers, observability and alerting, cost tuning.</sub>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Backend</b></td>
+<td>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+<img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white">
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
+<img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<br/><sub>REST and realtime API design, schema and migration work, queues and background jobs, auth and encryption.</sub>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Frontend</b></td>
+<td>
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+<img alt="RxJS" src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white">
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
+<br/><sub>Component architecture, state management, design systems, accessibility, performance budgets.</sub>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Mobile</b></td>
+<td>
+<img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+<img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+<br/><sub>Native modules, offline-first sync, push notifications, store releases.</sub>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>AI</b></td>
+<td>
+<img alt="Anthropic Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
+<img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+<img alt="Google Cloud Vision" src="https://img.shields.io/badge/Cloud%20Vision-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+<img alt="Model Context Protocol" src="https://img.shields.io/badge/MCP-1F2937?style=flat-square&logo=anthropic&logoColor=white">
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+<br/><sub>Document processing, entity extraction, vector embeddings and similarity search, multi-stage prompt pipelines.</sub>
+</td>
+</tr>
+</table>
+
+Ten years or so of this, mostly TypeScript. There are 24 public repos here and 312 stars, though most of what I write is private.
 
 ```yaml
-role:     Co-founder & Head of Engineering @ BidChex
-based_in: Goiânia, Goiás, Brazil (UTC-3)
-cloud:    AWS CDK · ECS Fargate · RDS · Cognito · CodePipeline
-daily:    TypeScript · NestJS · Angular · PostgreSQL · Redis
-ai:       document extraction · embeddings · prompt pipelines
-contact:  joaopster@proton.me
+role:      Co-founder & Head of Engineering @ BidChex
+based_in:  Goiânia, Goiás, Brazil (UTC-3)
+depth:     infrastructure · backend · frontend · mobile
+strongest: AWS
+contact:   joaopster@proton.me
 ```
 
 ---
@@ -61,77 +136,7 @@ The numbers come from WakaTime and the GitHub GraphQL API, and a scheduled Actio
 
 ---
 
-## `03` &nbsp;What I build with
-
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-<img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-<img alt="SQL" src="https://img.shields.io/badge/SQL-E38C00?style=flat-square&logo=postgresql&logoColor=white">
-</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
-<img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
-<img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
-</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>
-<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-<img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-</td>
-</tr>
-<tr>
-<td><b>AI &amp; agents</b></td>
-<td>
-<img alt="Anthropic Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
-<img alt="Model Context Protocol" src="https://img.shields.io/badge/MCP-1F2937?style=flat-square&logo=anthropic&logoColor=white">
-<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
-<img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
-<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
-<img alt="ElevenLabs" src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white">
-</td>
-</tr>
-<tr>
-<td><b>Data</b></td>
-<td>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-<img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white">
-</td>
-</tr>
-<tr>
-<td><b>Platform</b></td>
-<td>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
-<img alt="AWS CDK" src="https://img.shields.io/badge/CDK-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-<img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
-</td>
-</tr>
-</table>
-
----
-
-## `04` &nbsp;Pinned projects
+## `03` &nbsp;Pinned projects
 
 <table>
 <tr>
@@ -176,7 +181,7 @@ The numbers come from WakaTime and the GitHub GraphQL API, and a scheduled Actio
 
 ---
 
-## `05` &nbsp;How this repo works
+## `04` &nbsp;How this repo works
 
 ```
 GitHub Action (every 6h)
@@ -194,7 +199,7 @@ Fork it if you want the same setup. `WAKATIME_API_KEY` is the only secret you ne
 
 <div align="center">
 
-<sub>Last rebuild: <b>8 Sept 2026, 13:05 (BRT)</b> · 4,394 contributions in the last 12 months</sub>
+<sub>Last rebuild: <b>8 Sept 2026, 13:10 (BRT)</b> · 4,395 contributions in the last 12 months</sub>
 
 <br/>
 
