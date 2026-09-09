@@ -92,7 +92,7 @@
       <rect x="232" y="-14" width="2" height="20" rx="1" fill="#0891B2" opacity="0.55"/>
     </g>
     <g transform="translate(580, 168)">
-      <text class="metric-value" x="220" y="0" text-anchor="end">1,705h</text>
+      <text class="metric-value" x="220" y="0" text-anchor="end">1,708h</text>
       <text class="metric-label" x="220" y="18" text-anchor="end">tracked coding</text>
       <rect x="232" y="-14" width="2" height="20" rx="1" fill="#0891B2" opacity="0.55"/>
     </g>
