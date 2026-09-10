@@ -61,16 +61,16 @@
   <rect x="24" y="246" width="285.1" height="6" rx="3" fill="#7C3AED"/>
   <line x1="24" y1="262" x2="404" y2="262" stroke="#D8E0E8"/>
   <text class="foot" x="24" y="282">VS Code 51%  ·  Claude Code 49%  ·  Chrome 1%</text>
-  <text class="foot" x="404" y="282" text-anchor="end">all time: 1,715 hrs 40 mins</text>
+  <text class="foot" x="404" y="282" text-anchor="end">all time: 1,721 hrs 38 mins</text>
   
   <text class="card-title" x="476" y="38">GITHUB</text>
   <text class="card-sub" x="476" y="54">last 12 months, public and private</text>
-  <text class="big-g" x="476" y="86">4,474</text>
+  <text class="big-g" x="476" y="86">4,484</text>
   <text class="big-label" x="856" y="86" text-anchor="end">contributions</text>
   
     <g transform="translate(476, 112)">
       <rect x="0" y="-2" width="2" height="34" rx="1" fill="#0891B2" opacity="0.8"/>
-      <text class="cell-value" x="14" y="18">4,390</text>
+      <text class="cell-value" x="14" y="18">4,399</text>
       <text class="cell-label" x="14" y="33">commits</text>
     </g>
     <g transform="translate(666, 112)">
