@@ -61,16 +61,16 @@
   <rect x="24" y="246" width="300.5" height="6" rx="3" fill="#7C3AED"/>
   <line x1="24" y1="262" x2="404" y2="262" stroke="#D8E0E8"/>
   <text class="foot" x="24" y="282">Claude Code 53%  ·  VS Code 46%  ·  Chrome 1%</text>
-  <text class="foot" x="404" y="282" text-anchor="end">all time: 1,725 hrs</text>
+  <text class="foot" x="404" y="282" text-anchor="end">all time: 1,730 hrs 47 mins</text>
   
   <text class="card-title" x="476" y="38">GITHUB</text>
   <text class="card-sub" x="476" y="54">last 12 months, public and private</text>
-  <text class="big-g" x="476" y="86">4,484</text>
+  <text class="big-g" x="476" y="86">4,494</text>
   <text class="big-label" x="856" y="86" text-anchor="end">contributions</text>
   
     <g transform="translate(476, 112)">
       <rect x="0" y="-2" width="2" height="34" rx="1" fill="#0891B2" opacity="0.8"/>
-      <text class="cell-value" x="14" y="18">4,399</text>
+      <text class="cell-value" x="14" y="18">4,409</text>
       <text class="cell-label" x="14" y="33">commits</text>
     </g>
     <g transform="translate(666, 112)">
@@ -93,7 +93,7 @@
   <text class="foot" x="476" y="260" text-anchor="start">longest streak</text>
   <text class="foot-b" x="476" y="278" text-anchor="start">13 days</text>
   <text class="foot" x="666" y="260" text-anchor="middle">active days</text>
-  <text class="foot-b" x="666" y="278" text-anchor="middle">229</text>
+  <text class="foot-b" x="666" y="278" text-anchor="middle">230</text>
   <text class="foot" x="856" y="260" text-anchor="end">stars</text>
   <text class="foot-b" x="856" y="278" text-anchor="end">312</text>
 </svg>
