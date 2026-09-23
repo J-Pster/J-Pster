@@ -22,8 +22,8 @@
   
   <text class="card-title" x="24" y="38">WAKATIME</text>
   <text class="card-sub" x="24" y="54">last 7 days, from the WakaTime API</text>
-  <text class="big-w" x="24" y="86">55 hrs 58 mins</text>
-  <text class="big-label" x="404" y="86" text-anchor="end">7 hrs 59 mins / day</text>
+  <text class="big-w" x="24" y="86">45 hrs 55 mins</text>
+  <text class="big-label" x="404" y="86" text-anchor="end">7 hrs 39 mins / day</text>
   
     <g>
       <text class="row-label" x="24" y="116">TypeScript</text>
@@ -61,7 +61,7 @@
   <rect x="24" y="246" width="291.8" height="6" rx="3" fill="#A78BFA"/>
   <line x1="24" y1="262" x2="404" y2="262" stroke="#1D2B3A"/>
   <text class="foot" x="24" y="282">Claude Code 50%  ·  VS Code 48%  ·  Chrome 1%</text>
-  <text class="foot" x="404" y="282" text-anchor="end">all time: 1,833 hrs 55 mins</text>
+  <text class="foot" x="404" y="282" text-anchor="end">all time: 1,834 hrs 5 mins</text>
   
   <text class="card-title" x="476" y="38">GITHUB</text>
   <text class="card-sub" x="476" y="54">last 12 months, public and private</text>
