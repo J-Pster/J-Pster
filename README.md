@@ -100,7 +100,7 @@ Scale and cost land on me too, rather than on somebody else's platform team. Lam
 </tr>
 </table>
 
-Ten years or so of this, mostly TypeScript. There are 24 public repos here and 312 stars, though most of what I write is private.
+Ten years or so of this, mostly TypeScript. There are 24 public repos here and 313 stars, though most of what I write is private.
 
 ```yaml
 role:      Co-founder & Head of Engineering @ BidChex
@@ -130,7 +130,7 @@ The numbers come from WakaTime and the GitHub GraphQL API, and a scheduled Actio
   <img alt="Contribution heatmap for the last 12 months" src="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/heatmap-dark.svg" width="880">
 </picture>
 
-<sub><b>1,866 hrs 52 mins</b> of tracked coding since Sun Jan 11th 2026 · currently averaging <b>8 hrs 39 mins</b> per day · <b>TypeScript</b> is 23% of this week</sub>
+<sub><b>1,869 hrs 55 mins</b> of tracked coding since Sun Jan 11th 2026 · currently averaging <b>8 hrs 39 mins</b> per day · <b>TypeScript</b> is 23% of this week</sub>
 
 </div>
 
@@ -141,7 +141,7 @@ The numbers come from WakaTime and the GitHub GraphQL API, and a scheduled Actio
 <table>
 <tr>
 <td valign="top" width="50%">
-<a href="https://github.com/J-Pster/Psters_AI_Workflow"><b>Psters_AI_Workflow</b></a> <code>★ 289</code><br/>
+<a href="https://github.com/J-Pster/Psters_AI_Workflow"><b>Psters_AI_Workflow</b></a> <code>★ 290</code><br/>
 <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logoColor=white" height="18" alt="JavaScript"/><br/>
 <sub>An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the …</sub>
 </td>
@@ -199,7 +199,7 @@ Fork it if you want the same setup. `WAKATIME_API_KEY` is the only secret you ne
 
 <div align="center">
 
-<sub>Last rebuild: <b>25 Sept 2026, 15:13 (BRT)</b> · 4,778 contributions in the last 12 months</sub>
+<sub>Last rebuild: <b>25 Sept 2026, 21:28 (BRT)</b> · 4,786 contributions in the last 12 months</sub>
 
 <br/>
 

@@ -82,17 +82,17 @@
     </g>
   
     <g transform="translate(580, 64)">
-      <text class="metric-value" x="220" y="0" text-anchor="end">4,778</text>
+      <text class="metric-value" x="220" y="0" text-anchor="end">4,786</text>
       <text class="metric-label" x="220" y="18" text-anchor="end">contributions / yr</text>
       <rect x="232" y="-14" width="2" height="20" rx="1" fill="#0891B2" opacity="0.55"/>
     </g>
     <g transform="translate(580, 116)">
-      <text class="metric-value" x="220" y="0" text-anchor="end">312</text>
+      <text class="metric-value" x="220" y="0" text-anchor="end">313</text>
       <text class="metric-label" x="220" y="18" text-anchor="end">stars earned</text>
       <rect x="232" y="-14" width="2" height="20" rx="1" fill="#0891B2" opacity="0.55"/>
     </g>
     <g transform="translate(580, 168)">
-      <text class="metric-value" x="220" y="0" text-anchor="end">1,867h</text>
+      <text class="metric-value" x="220" y="0" text-anchor="end">1,870h</text>
       <text class="metric-label" x="220" y="18" text-anchor="end">tracked coding</text>
       <rect x="232" y="-14" width="2" height="20" rx="1" fill="#0891B2" opacity="0.55"/>
     </g>
