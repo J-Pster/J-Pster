@@ -61,7 +61,7 @@
   <rect x="24" y="246" width="81.7" height="6" rx="3" fill="#7C3AED"/>
   <line x1="24" y1="262" x2="404" y2="262" stroke="#D8E0E8"/>
   <text class="foot" x="24" y="282">VS Code 78%  ·  Claude Code 19%  ·  Chrome 3%</text>
-  <text class="foot" x="404" y="282" text-anchor="end">all time: 1,915 hrs 30 mins</text>
+  <text class="foot" x="404" y="282" text-anchor="end">all time: 1,916 hrs 32 mins</text>
   
   <text class="card-title" x="476" y="38">GITHUB</text>
   <text class="card-sub" x="476" y="54">last 12 months, public and private</text>
