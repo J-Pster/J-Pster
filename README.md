@@ -100,7 +100,7 @@ Scale and cost land on me too, rather than on somebody else's platform team. Lam
 </tr>
 </table>
 
-Ten years or so of this, mostly TypeScript. There are 24 public repos here and 312 stars, though most of what I write is private.
+Ten years or so of this, mostly TypeScript. There are 24 public repos here and 313 stars, though most of what I write is private.
 
 ```yaml
 role:      Co-founder & Head of Engineering @ BidChex
@@ -130,7 +130,7 @@ The numbers come from WakaTime and the GitHub GraphQL API, and a scheduled Actio
   <img alt="Contribution heatmap for the last 12 months" src="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/heatmap-dark.svg" width="880">
 </picture>
 
-<sub><b>2,063 hrs 46 mins</b> of tracked coding since Sun Jan 11th 2026 · currently averaging <b>6 hrs 36 mins</b> per day · <b>TypeScript</b> is 29% of this week</sub>
+<sub><b>2,067 hrs 27 mins</b> of tracked coding since Sun Jan 11th 2026 · currently averaging <b>6 hrs 36 mins</b> per day · <b>TypeScript</b> is 29% of this week</sub>
 
 </div>
 
@@ -158,7 +158,7 @@ The numbers come from WakaTime and the GitHub GraphQL API, and a scheduled Actio
 <sub>Real-time 3D face-tracking avatar (procedural grenade, TheBurntPeanut style) + mouse/keyboard overlay for OBS. Three.js + MediaPipe, fully offline.</sub>
 </td>
 <td valign="top" width="50%">
-<a href="https://github.com/J-Pster/pster-cliping"><b>pster-cliping</b></a><br/>
+<a href="https://github.com/J-Pster/pster-cliping"><b>pster-cliping</b></a> <code>★ 1</code><br/>
 <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logoColor=white" height="18" alt="Python"/><br/>
 <sub>Clipador: a SaaS that turns YouTube videos into short (9:16) and long (16:9) clips with AI-powered cut selection, burned-in subtitles, AI-generated thumbnails, and ready-to-p…</sub>
 </td>
@@ -199,7 +199,7 @@ Fork it if you want the same setup. `WAKATIME_API_KEY` is the only secret you ne
 
 <div align="center">
 
-<sub>Last rebuild: <b>15 Oct 2026, 09:16 (BRT)</b> · 5,061 contributions in the last 12 months</sub>
+<sub>Last rebuild: <b>15 Oct 2026, 15:13 (BRT)</b> · 5,063 contributions in the last 12 months</sub>
 
 <br/>
 
