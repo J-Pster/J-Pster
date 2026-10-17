@@ -22,46 +22,46 @@
   
   <text class="card-title" x="24" y="38">WAKATIME</text>
   <text class="card-sub" x="24" y="54">last 7 days, from the WakaTime API</text>
-  <text class="big-w" x="24" y="86">50 hrs 45 mins</text>
-  <text class="big-label" x="404" y="86" text-anchor="end">7 hrs 15 mins / day</text>
+  <text class="big-w" x="24" y="86">58 hrs 39 mins</text>
+  <text class="big-label" x="404" y="86" text-anchor="end">8 hrs 22 mins / day</text>
   
     <g>
       <text class="row-label" x="24" y="116">TypeScript</text>
       <rect x="132" y="106" width="222" height="9" rx="4.5" fill="#141D28"/>
       <rect x="132" y="106" width="222.0" height="9" rx="4.5" fill="#3178C6"/>
-      <text class="row-value" x="404" y="116" text-anchor="end">34.2%</text>
+      <text class="row-value" x="404" y="116" text-anchor="end">31.5%</text>
     </g>
     <g>
       <text class="row-label" x="24" y="142">Other</text>
       <rect x="132" y="132" width="222" height="9" rx="4.5" fill="#141D28"/>
-      <rect x="132" y="132" width="148.8" height="9" rx="4.5" fill="#5A6876"/>
-      <text class="row-value" x="404" y="142" text-anchor="end">22.9%</text>
+      <rect x="132" y="132" width="140.2" height="9" rx="4.5" fill="#5A6876"/>
+      <text class="row-value" x="404" y="142" text-anchor="end">19.9%</text>
     </g>
     <g>
       <text class="row-label" x="24" y="168">JSON</text>
       <rect x="132" y="158" width="222" height="9" rx="4.5" fill="#141D28"/>
-      <rect x="132" y="158" width="82.0" height="9" rx="4.5" fill="#6BA539"/>
-      <text class="row-value" x="404" y="168" text-anchor="end">12.6%</text>
+      <rect x="132" y="158" width="94.0" height="9" rx="4.5" fill="#6BA539"/>
+      <text class="row-value" x="404" y="168" text-anchor="end">13.3%</text>
     </g>
     <g>
       <text class="row-label" x="24" y="194">Markdown</text>
       <rect x="132" y="184" width="222" height="9" rx="4.5" fill="#141D28"/>
-      <rect x="132" y="184" width="59.3" height="9" rx="4.5" fill="#8B93A1"/>
-      <text class="row-value" x="404" y="194" text-anchor="end">9.1%</text>
+      <rect x="132" y="184" width="75.8" height="9" rx="4.5" fill="#8B93A1"/>
+      <text class="row-value" x="404" y="194" text-anchor="end">10.8%</text>
     </g>
     <g>
-      <text class="row-label" x="24" y="220">HTML</text>
+      <text class="row-label" x="24" y="220">Git</text>
       <rect x="132" y="210" width="222" height="9" rx="4.5" fill="#141D28"/>
-      <rect x="132" y="210" width="28.5" height="9" rx="4.5" fill="#E34C26"/>
-      <text class="row-value" x="404" y="220" text-anchor="end">4.4%</text>
+      <rect x="132" y="210" width="36.0" height="9" rx="4.5" fill="#F472B6"/>
+      <text class="row-value" x="404" y="220" text-anchor="end">5.1%</text>
     </g>
   <text class="foot" x="24" y="238">AI-assisted coding</text>
-  <text class="foot" x="404" y="238" text-anchor="end">18%</text>
+  <text class="foot" x="404" y="238" text-anchor="end">14%</text>
   <rect x="24" y="246" width="380" height="6" rx="3" fill="#141D28"/>
-  <rect x="24" y="246" width="70.0" height="6" rx="3" fill="#A78BFA"/>
+  <rect x="24" y="246" width="54.6" height="6" rx="3" fill="#A78BFA"/>
   <line x1="24" y1="262" x2="404" y2="262" stroke="#1D2B3A"/>
-  <text class="foot" x="24" y="282">VS Code 74%  ·  Claude Code 18%  ·  Chrome 7%</text>
-  <text class="foot" x="404" y="282" text-anchor="end">all time: 2,090 hrs 19 mins</text>
+  <text class="foot" x="24" y="282">VS Code 80%  ·  Claude Code 14%  ·  Chrome 5%</text>
+  <text class="foot" x="404" y="282" text-anchor="end">all time: 2,090 hrs 54 mins</text>
   
   <text class="card-title" x="476" y="38">GITHUB</text>
   <text class="card-sub" x="476" y="54">last 12 months, public and private</text>
