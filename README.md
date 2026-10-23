@@ -100,7 +100,7 @@ Scale and cost land on me too, rather than on somebody else's platform team. Lam
 </tr>
 </table>
 
-Ten years or so of this, mostly TypeScript. There are 24 public repos here and 313 stars, though most of what I write is private.
+Ten years or so of this, mostly TypeScript. There are 24 public repos here and 314 stars, though most of what I write is private.
 
 ```yaml
 role:      Co-founder & Head of Engineering @ BidChex
@@ -130,7 +130,7 @@ The numbers come from WakaTime and the GitHub GraphQL API, and a scheduled Actio
   <img alt="Contribution heatmap for the last 12 months" src="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/heatmap-dark.svg" width="880">
 </picture>
 
-<sub><b>2,148 hrs 38 mins</b> of tracked coding since Sun Jan 11th 2026 · currently averaging <b>11 hrs 7 mins</b> per day · <b>TypeScript</b> is 26% of this week</sub>
+<sub><b>2,153 hrs 17 mins</b> of tracked coding since Sun Jan 11th 2026 · currently averaging <b>11 hrs 7 mins</b> per day · <b>TypeScript</b> is 26% of this week</sub>
 
 </div>
 
@@ -153,7 +153,7 @@ The numbers come from WakaTime and the GitHub GraphQL API, and a scheduled Actio
 </tr>
 <tr>
 <td valign="top" width="50%">
-<a href="https://github.com/J-Pster/pster-live-avatar"><b>pster-live-avatar</b></a><br/>
+<a href="https://github.com/J-Pster/pster-live-avatar"><b>pster-live-avatar</b></a> <code>★ 1</code><br/>
 <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logoColor=white" height="18" alt="HTML"/><br/>
 <sub>Real-time 3D face-tracking avatar (procedural grenade, TheBurntPeanut style) + mouse/keyboard overlay for OBS. Three.js + MediaPipe, fully offline.</sub>
 </td>
@@ -199,7 +199,7 @@ Fork it if you want the same setup. `WAKATIME_API_KEY` is the only secret you ne
 
 <div align="center">
 
-<sub>Last rebuild: <b>22 Oct 2026, 15:12 (BRT)</b> · 5,200 contributions in the last 12 months</sub>
+<sub>Last rebuild: <b>22 Oct 2026, 21:28 (BRT)</b> · 5,204 contributions in the last 12 months</sub>
 
 <br/>
 
