@@ -130,7 +130,7 @@ The numbers come from WakaTime and the GitHub GraphQL API, and a scheduled Actio
   <img alt="Contribution heatmap for the last 12 months" src="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/heatmap-dark.svg" width="880">
 </picture>
 
-<sub><b>2,252 hrs 50 mins</b> of tracked coding since Sun Jan 11th 2026 · currently averaging <b>5 hrs 59 mins</b> per day · <b>Other</b> is 49% of this week</sub>
+<sub><b>2,227 hrs 56 mins</b> of tracked coding since Sun Jan 11th 2026 · currently averaging <b>7 hrs 26 mins</b> per day · <b>TypeScript</b> is 30% of this week</sub>
 
 </div>
 
@@ -199,7 +199,7 @@ Fork it if you want the same setup. `WAKATIME_API_KEY` is the only secret you ne
 
 <div align="center">
 
-<sub>Last rebuild: <b>30 Oct 2026, 15:08 (BRT)</b> · 5,360 contributions in the last 12 months</sub>
+<sub>Last rebuild: <b>30 Oct 2026, 21:17 (BRT)</b> · 5,367 contributions in the last 12 months</sub>
 
 <br/>
 
