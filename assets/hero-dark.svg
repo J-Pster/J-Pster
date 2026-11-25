@@ -57,7 +57,7 @@
   </g>
   <rect x="0.5" y="0.5" width="879" height="259" rx="18" fill="none" stroke="#1D2B3A"/>
 
-  <text class="kicker" x="46" y="62">CO-FOUNDER &amp; LEAD ENGINEER · STEALTH STARTUP</text>
+  <text class="kicker" x="46" y="62">CO-FOUNDER &amp; LEAD ENGINEER · CONFIDENTIAL STARTUP</text>
   <text class="name" x="46" y="110">João Pster<tspan class="cursor" fill="#22D3EE">_</tspan></text>
   <g clip-path="url(#role-clip)"><g class="roller">
       <text class="role" x="46" y="150">Lead Software Engineer</text>
@@ -66,16 +66,16 @@
   </g></g>
   
     <g transform="translate(46, 186)">
-      <rect width="141" height="26" rx="13" fill="#141D28" stroke="#1D2B3A"/>
+      <rect width="178" height="26" rx="13" fill="#141D28" stroke="#1D2B3A"/>
       <circle cx="14" cy="13" r="3.5" fill="#22D3EE"/>
-      <text class="chip" x="25" y="17">Stealth startup</text>
+      <text class="chip" x="25" y="17">Confidential startup</text>
     </g>
-    <g transform="translate(197, 186)">
+    <g transform="translate(234, 186)">
       <rect width="119" height="26" rx="13" fill="#141D28" stroke="#1D2B3A"/>
       <circle cx="14" cy="13" r="3.5" fill="#7D8DA1"/>
       <text class="chip" x="25" y="17">Goiânia · BR</text>
     </g>
-    <g transform="translate(325.8, 186)">
+    <g transform="translate(362.8, 186)">
       <rect width="193" height="26" rx="13" fill="#141D28" stroke="#1D2B3A"/>
       <circle cx="14" cy="13" r="3.5" fill="#34D399"/>
       <text class="chip" x="25" y="17">Open to collaborations</text>

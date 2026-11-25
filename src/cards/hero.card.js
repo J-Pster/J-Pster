@@ -38,7 +38,7 @@ function heroCard(theme, data) {
     .join('\n');
 
   const chips = [
-    { label: 'Stealth startup', accent: theme.accent },
+    { label: 'Confidential startup', accent: theme.accent },
     { label: 'Goiânia · BR', accent: theme.muted },
     { label: 'Open to collaborations', accent: theme.accent3 },
   ];
@@ -132,7 +132,7 @@ ${roleFrames}
   </g>
   <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="18" fill="none" stroke="${theme.border}"/>
 
-  <text class="kicker" x="46" y="62">CO-FOUNDER &amp; LEAD ENGINEER · STEALTH STARTUP</text>
+  <text class="kicker" x="46" y="62">CO-FOUNDER &amp; LEAD ENGINEER · CONFIDENTIAL STARTUP</text>
   <text class="name" x="46" y="110">João Pster<tspan class="cursor" fill="${theme.accent}">_</tspan></text>
   <g clip-path="url(#role-clip)"><g class="roller">${roleNodes}
   </g></g>
