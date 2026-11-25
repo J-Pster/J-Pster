@@ -3,12 +3,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/hero-light.svg">
-  <img alt="João Pster, Senior Web Software Architect and AI Engineer at BidChex" src="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/hero-dark.svg" width="880">
+  <img alt="João Pster, Lead Software Engineer" src="https://raw.githubusercontent.com/J-Pster/J-Pster/main/assets/hero-dark.svg" width="880">
 </picture>
 
 <p>
-  <a href="https://bidchex.com"><img alt="BidChex" src="https://img.shields.io/badge/BidChex-bidchex.com-22D3EE?style=for-the-badge&labelColor=0B0F14"></a>
-  <a href="https://www.linkedin.com/in/ojoaopster/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ojoaopster-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F14"></a>
+  <a href="https://www.linkedin.com/in/joaopster/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-joaopster-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F14"></a>
   <a href="https://joaopster.com"><img alt="Website" src="https://img.shields.io/badge/Website-joaopster.com-A78BFA?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0B0F14"></a>
   <a href="mailto:joaopster@proton.me"><img alt="Email" src="https://img.shields.io/badge/Email-proton.me-34D399?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0B0F14"></a>
   <a href="https://wakatime.com/@JoaoPster"><img alt="WakaTime all time" src="https://wakatime.com/badge/user/2cbb298c-acb2-469e-99a1-b264edbcf712.svg?style=for-the-badge&labelColor=0B0F14"></a>
@@ -22,7 +21,7 @@
 
 I build the whole thing: infrastructure, backend, frontend, mobile. I go deep in all four. I have taken systems in each of them from an empty repository to production traffic, and I am the one on call when they break. AWS is where I go deepest of all.
 
-[BidChex](https://bidchex.com) is the proof. I co-founded it and wrote every part of the platform myself, starting from the first commit. The AWS infrastructure, the API, the web app, the mobile client, the document pipeline. The company is two people, my business partner and me, and I am still the only engineer on it.
+The proof is a startup I co-founded with my business partner, still in stealth mode. I lead its engineering and I am still the only engineer on it. I designed the software architecture and all of the AWS infrastructure, and I wrote 87.4% of the code across our 52 repositories, about 2.63 million lines. The product is live on web, iOS and Android, with real customers and more than 500 users. It runs on ECS Fargate, RDS PostgreSQL and more than 40 Lambda functions, all defined as code with OpenTofu. It also has an AI voice line that answers calls 24 hours a day, and integrations with about 10 third-party platforms.
 
 Scale and cost land on me too, rather than on somebody else's platform team. Lambda and Fargate sized against real traffic, RDS with the indexes and replicas the queries need, S3 lifecycle rules, and a monthly bill I can explain line by line.
 
@@ -31,6 +30,7 @@ Scale and cost land on me too, rather than on somebody else's platform team. Lam
 <td valign="top"><b>Infrastructure</b><br/><sub>AWS</sub></td>
 <td>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
+<img alt="OpenTofu" src="https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black">
 <img alt="AWS CDK" src="https://img.shields.io/badge/CDK%20IaC-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
 <img alt="AWS Lambda" src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white">
 <img alt="ECS Fargate" src="https://img.shields.io/badge/ECS%20Fargate-FF9900?style=flat-square&logo=amazonecs&logoColor=white">
@@ -100,10 +100,10 @@ Scale and cost land on me too, rather than on somebody else's platform team. Lam
 </tr>
 </table>
 
-Ten years or so of this, mostly TypeScript. There are 24 public repos here and 314 stars, though most of what I write is private.
+Seven years of this, mostly TypeScript. There are 24 public repos here and 314 stars, though most of what I write is private.
 
 ```yaml
-role:      Co-founder & Head of Engineering @ BidChex
+role:      Co-founder & Lead Engineer @ stealth-mode startup
 based_in:  Goiânia, Goiás, Brazil (UTC-3)
 depth:     infrastructure · backend · frontend · mobile
 strongest: AWS

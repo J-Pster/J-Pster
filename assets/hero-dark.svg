@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" role="img" aria-label="João Pster · Senior Web Software Architect and AI Engineer at BidChex">
-  <title>João Pster · Senior Web Software Architect &amp; AI Engineer at BidChex</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" role="img" aria-label="João Pster · Lead Software Engineer">
+  <title>João Pster · Lead Software Engineer</title>
   <defs>
     <linearGradient id="hero-bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0F1620"/>
@@ -57,25 +57,25 @@
   </g>
   <rect x="0.5" y="0.5" width="879" height="259" rx="18" fill="none" stroke="#1D2B3A"/>
 
-  <text class="kicker" x="46" y="62">BIDCHEX · CO-FOUNDER &amp; HEAD OF ENGINEERING</text>
+  <text class="kicker" x="46" y="62">CO-FOUNDER &amp; LEAD ENGINEER · STEALTH STARTUP</text>
   <text class="name" x="46" y="110">João Pster<tspan class="cursor" fill="#22D3EE">_</tspan></text>
   <g clip-path="url(#role-clip)"><g class="roller">
-      <text class="role" x="46" y="150">Senior Web Software Architect</text>
-      <text class="role" x="46" y="176">AI Engineer  ·  document intelligence</text>
-      <text class="role" x="46" y="202">AWS  ·  CDK, ECS Fargate, TypeScript</text>
+      <text class="role" x="46" y="150">Lead Software Engineer</text>
+      <text class="role" x="46" y="176">Cloud Architecture on AWS  ·  OpenTofu, ECS Fargate</text>
+      <text class="role" x="46" y="202">Full-Stack TypeScript  ·  AI in Production</text>
   </g></g>
   
     <g transform="translate(46, 186)">
-      <rect width="82" height="26" rx="13" fill="#141D28" stroke="#1D2B3A"/>
+      <rect width="141" height="26" rx="13" fill="#141D28" stroke="#1D2B3A"/>
       <circle cx="14" cy="13" r="3.5" fill="#22D3EE"/>
-      <text class="chip" x="25" y="17">BidChex</text>
+      <text class="chip" x="25" y="17">Stealth startup</text>
     </g>
-    <g transform="translate(137.8, 186)">
+    <g transform="translate(197, 186)">
       <rect width="119" height="26" rx="13" fill="#141D28" stroke="#1D2B3A"/>
       <circle cx="14" cy="13" r="3.5" fill="#7D8DA1"/>
       <text class="chip" x="25" y="17">Goiânia · BR</text>
     </g>
-    <g transform="translate(266.6, 186)">
+    <g transform="translate(325.8, 186)">
       <rect width="193" height="26" rx="13" fill="#141D28" stroke="#1D2B3A"/>
       <circle cx="14" cy="13" r="3.5" fill="#34D399"/>
       <text class="chip" x="25" y="17">Open to collaborations</text>

@@ -16,9 +16,9 @@ const ROLE_BASELINE = 150;
  */
 function heroCard(theme, data) {
   const roles = [
-    'Senior Web Software Architect',
-    'AI Engineer  ·  document intelligence',
-    'AWS  ·  CDK, ECS Fargate, TypeScript',
+    'Lead Software Engineer',
+    'Cloud Architecture on AWS  ·  OpenTofu, ECS Fargate',
+    'Full-Stack TypeScript  ·  AI in Production',
   ];
 
   const roleNodes = roles
@@ -38,7 +38,7 @@ function heroCard(theme, data) {
     .join('\n');
 
   const chips = [
-    { label: 'BidChex', accent: theme.accent },
+    { label: 'Stealth startup', accent: theme.accent },
     { label: 'Goiânia · BR', accent: theme.muted },
     { label: 'Open to collaborations', accent: theme.accent3 },
   ];
@@ -75,8 +75,8 @@ function heroCard(theme, data) {
     )
     .join('');
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="João Pster · Senior Web Software Architect and AI Engineer at BidChex">
-  <title>João Pster · Senior Web Software Architect &amp; AI Engineer at BidChex</title>
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="João Pster · Lead Software Engineer">
+  <title>João Pster · Lead Software Engineer</title>
   <defs>
     <linearGradient id="hero-bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="${theme.surface}"/>
@@ -132,7 +132,7 @@ ${roleFrames}
   </g>
   <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="18" fill="none" stroke="${theme.border}"/>
 
-  <text class="kicker" x="46" y="62">BIDCHEX · CO-FOUNDER &amp; HEAD OF ENGINEERING</text>
+  <text class="kicker" x="46" y="62">CO-FOUNDER &amp; LEAD ENGINEER · STEALTH STARTUP</text>
   <text class="name" x="46" y="110">João Pster<tspan class="cursor" fill="${theme.accent}">_</tspan></text>
   <g clip-path="url(#role-clip)"><g class="roller">${roleNodes}
   </g></g>
